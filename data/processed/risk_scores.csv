@@ -1,0 +1,1471 @@
+EmployeeID,Department,JobRole,OverTime,Attrition,AttritionProbability,RiskCategory,TopReasons
+1,Sales,Sales Executive,Yes,1,0.784,High,Works overtime + Many previous employers + Lower WorkLifeBalance
+2,Research & Development,Research Scientist,No,0,0.018,Low,Frequent travel / workload stress + Lower DailyRate + Low satisfaction and engagement
+3,Research & Development,Laboratory Technician,Yes,1,0.599,Medium,Works overtime + High-turnover job role + Many previous employers
+4,Research & Development,Research Scientist,Yes,0,0.167,Low,Works overtime + Frequent travel / workload stress + Few years with current manager
+5,Research & Development,Laboratory Technician,No,0,0.227,Low,Many previous employers + High-turnover job role + Low satisfaction and engagement
+6,Research & Development,Laboratory Technician,No,0,0.101,Low,Frequent travel / workload stress + High-turnover job role + Marital status (single)
+7,Research & Development,Laboratory Technician,Yes,0,0.205,Low,Works overtime + High-turnover job role + Low satisfaction and engagement
+8,Research & Development,Laboratory Technician,No,0,0.158,Low,Income vs experience mismatch + Long commute + High-turnover job role
+9,Research & Development,Manufacturing Director,No,0,0.053,Low,Frequent travel / workload stress + Long commute + Marital status (single)
+10,Research & Development,Healthcare Representative,No,0,0.101,Low,Long time since last promotion + Long commute + Many previous employers
+11,Research & Development,Laboratory Technician,No,0,0.051,Low,High-turnover job role + Low monthly income + Long commute
+12,Research & Development,Laboratory Technician,Yes,0,0.091,Low,Works overtime + High-turnover job role + Marital status (single)
+13,Research & Development,Research Scientist,No,0,0.238,Low,Long commute + Long time since last promotion + Lower WorkLifeBalance
+14,Research & Development,Laboratory Technician,No,0,0.052,Low,High-turnover job role + Long commute + Low monthly income
+15,Research & Development,Laboratory Technician,Yes,1,0.853,High,Works overtime + Long commute + High-turnover job role
+16,Research & Development,Manufacturing Director,No,0,0.021,Low,Long time since last promotion + Long commute + Income vs experience mismatch
+17,Research & Development,Research Scientist,Yes,0,0.159,Low,Works overtime + Lower WorkLifeBalance + Low monthly income
+18,Research & Development,Laboratory Technician,Yes,0,0.25,Low,Works overtime + Income vs experience mismatch + High-turnover job role
+19,Sales,Manager,No,0,0.018,Low,Low satisfaction and engagement + Low stock option level + High-turnover job role
+20,Research & Development,Research Scientist,Yes,0,0.172,Low,Works overtime + Marital status (single) + Many previous employers
+21,Research & Development,Manufacturing Director,No,0,0.009,Low,Lower WorkLifeBalance + Younger age + Low monthly income
+22,Sales,Sales Representative,No,1,0.562,Medium,Low satisfaction and engagement + High-turnover job role + Many previous employers
+23,Research & Development,Research Director,No,0,0.016,Low,Low satisfaction and engagement + Marital status (single) + Low stock option level
+24,Research & Development,Research Scientist,No,0,0.136,Low,Income vs experience mismatch + Marital status (single) + Younger age
+25,Research & Development,Research Scientist,No,1,0.163,Low,Low satisfaction and engagement + Marital status (single) + Low stock option level
+26,Research & Development,Manager,No,0,0.001,Low,Long time since last promotion + Lower WorkLifeBalance + Many previous employers
+27,Research & Development,Research Scientist,Yes,1,0.879,High,Low satisfaction and engagement + Works overtime + Frequent travel / workload stress
+28,Sales,Sales Executive,No,0,0.077,Low,Long time since last promotion + High-turnover job role + Education field
+29,Research & Development,Healthcare Representative,No,0,0.006,Low,Long time since last promotion + Low satisfaction and engagement + Few years at company
+30,Sales,Manager,No,0,0.06,Low,Marital status (single) + Low satisfaction and engagement + Lower WorkLifeBalance
+31,Research & Development,Laboratory Technician,No,0,0.115,Low,High-turnover job role + Marital status (single) + Few years with current manager
+32,Research & Development,Healthcare Representative,Yes,0,0.036,Low,Works overtime + Low stock option level + Few years in current role
+33,Research & Development,Laboratory Technician,No,0,0.24,Low,High-turnover job role + Marital status (single) + Low monthly income
+34,Sales,Sales Representative,No,1,0.009,Low,High-turnover job role + Education field + Few years with current manager
+35,Research & Development,Research Scientist,Yes,1,0.179,Low,Works overtime + Lower WorkLifeBalance + Few years with current manager
+36,Research & Development,Research Scientist,No,0,0.004,Low,Lower WorkLifeBalance + Low monthly income + Low job level
+37,Sales,Sales Representative,Yes,1,0.757,High,Works overtime + Low satisfaction and engagement + High-turnover job role
+38,Sales,Sales Representative,No,0,0.102,Low,High-turnover job role + Low monthly income + Low stock option level
+39,Research & Development,Research Scientist,Yes,0,0.406,Medium,Many previous employers + Works overtime + Low satisfaction and engagement
+40,Sales,Sales Executive,No,0,0.081,Low,Frequent travel / workload stress + Low satisfaction and engagement + High-turnover job role
+41,Research & Development,Laboratory Technician,No,0,0.079,Low,High-turnover job role + Income vs experience mismatch + Few years with current manager
+42,Research & Development,Laboratory Technician,No,0,0.044,Low,Income vs experience mismatch + High-turnover job role + Few years with current manager
+43,Research & Development,Laboratory Technician,No,1,0.902,High,Low satisfaction and engagement + Long commute + Income vs experience mismatch
+44,Sales,Sales Executive,No,0,0.043,Low,Frequent travel / workload stress + Marital status (single) + Lower TrainingTimesLastYear
+45,Research & Development,Laboratory Technician,No,0,0.036,Low,Frequent travel / workload stress + High-turnover job role + Marital status (single)
+46,Research & Development,Research Director,No,1,0.034,Low,Long time since last promotion + Education field + Lower TrainingTimesLastYear
+47,Sales,Sales Executive,No,0,0.147,Low,Long time since last promotion + Long commute + Marital status (single)
+48,Research & Development,Research Scientist,No,0,0.325,Medium,Low satisfaction and engagement + Long commute + Few years with current manager
+49,Sales,Sales Executive,Yes,0,0.379,Medium,Works overtime + Frequent travel / workload stress + Marital status (single)
+50,Research & Development,Laboratory Technician,No,0,0.042,Low,Income vs experience mismatch + High-turnover job role + Low monthly income
+51,Research & Development,Laboratory Technician,Yes,1,0.442,Medium,Many previous employers + Works overtime + High-turnover job role
+52,Research & Development,Laboratory Technician,Yes,1,0.82,High,Works overtime + Income vs experience mismatch + High-turnover job role
+53,Sales,Sales Executive,Yes,0,0.439,Medium,Works overtime + Low satisfaction and engagement + Many previous employers
+54,Research & Development,Healthcare Representative,Yes,0,0.066,Low,Works overtime + Low satisfaction and engagement + Income vs experience mismatch
+55,Sales,Sales Executive,Yes,0,0.571,Medium,Works overtime + Many previous employers + Long commute
+56,Research & Development,Research Director,Yes,0,0.111,Low,Long time since last promotion + Works overtime + Frequent travel / workload stress
+57,Sales,Sales Executive,No,0,0.07,Low,Frequent travel / workload stress + Low satisfaction and engagement + Income vs experience mismatch
+58,Research & Development,Laboratory Technician,Yes,0,0.531,Medium,Works overtime + High-turnover job role + Long commute
+59,Research & Development,Laboratory Technician,No,0,0.007,Low,High-turnover job role + Lower WorkLifeBalance + Younger age
+60,Research & Development,Manufacturing Director,No,0,0.012,Low,Low satisfaction and engagement + Income vs experience mismatch + Promotion delay
+61,Research & Development,Manufacturing Director,Yes,0,0.113,Low,Works overtime + Long time since last promotion + Low satisfaction and engagement
+62,Research & Development,Laboratory Technician,No,0,0.205,Low,Long time since last promotion + Long commute + Frequent travel / workload stress
+63,Research & Development,Research Director,Yes,0,0.368,Medium,Long time since last promotion + Works overtime + Many previous employers
+64,Sales,Sales Executive,No,0,0.286,Low,Long time since last promotion + Low satisfaction and engagement + Many previous employers
+65,Research & Development,Healthcare Representative,No,0,0.019,Low,Long time since last promotion + Education field + Lower TrainingTimesLastYear
+66,Research & Development,Manager,Yes,0,0.01,Low,Works overtime + Few years in current role + High-turnover job role
+67,Research & Development,Manufacturing Director,No,0,0.253,Low,Low satisfaction and engagement + Frequent travel / workload stress + Marital status (single)
+68,Research & Development,Research Scientist,No,0,0.015,Low,Low satisfaction and engagement + Few years with current manager + Few years in current role
+69,Research & Development,Research Scientist,No,0,0.183,Low,Frequent travel / workload stress + Low satisfaction and engagement + Lower WorkLifeBalance
+70,Research & Development,Research Scientist,Yes,1,0.382,Medium,Works overtime + Income vs experience mismatch + Lower WorkLifeBalance
+71,Sales,Sales Executive,No,0,0.498,Medium,Many previous employers + Frequent travel / workload stress + Low satisfaction and engagement
+72,Research & Development,Research Scientist,No,0,0.009,Low,Low monthly income + Younger age + Low job level
+73,Research & Development,Research Scientist,No,0,0.219,Low,Income vs experience mismatch + Marital status (single) + Few years with current manager
+74,Research & Development,Research Scientist,No,0,0.012,Low,Low satisfaction and engagement + Promotion delay + Younger age
+75,Research & Development,Laboratory Technician,No,0,0.09,Low,High-turnover job role + Few years with current manager + Low stock option level
+76,Research & Development,Manufacturing Director,No,0,0.012,Low,Marital status (single) + Low stock option level + Younger age
+77,Sales,Sales Executive,No,0,0.19,Low,Low satisfaction and engagement + Marital status (single) + Low stock option level
+78,Research & Development,Research Director,Yes,0,0.074,Low,Works overtime + Few years with current manager + Low stock option level
+79,Research & Development,Research Director,No,0,0.084,Low,Low satisfaction and engagement + Marital status (single) + Low stock option level
+80,Human Resources,Human Resources,Yes,0,0.276,Low,Works overtime + Many previous employers + Few years with current manager
+81,Research & Development,Laboratory Technician,Yes,0,0.138,Low,Works overtime + High-turnover job role + Lower WorkLifeBalance
+82,Research & Development,Research Scientist,No,0,0.078,Low,Low satisfaction and engagement + Marital status (single) + Low stock option level
+83,Sales,Sales Executive,No,0,0.009,Low,Few years with current manager + High-turnover job role + Few years in current role
+84,Research & Development,Research Scientist,Yes,0,0.012,Low,Works overtime + Many previous employers + Low satisfaction and engagement
+85,Research & Development,Manufacturing Director,No,0,0.035,Low,Low satisfaction and engagement + Low stock option level + Low monthly income
+86,Research & Development,Manufacturing Director,No,0,0.055,Low,Marital status (single) + Lower WorkLifeBalance + Low satisfaction and engagement
+87,Sales,Sales Representative,No,0,0.515,Medium,High-turnover job role + Education field + Younger age
+88,Research & Development,Laboratory Technician,No,0,0.014,Low,High-turnover job role + Low monthly income + Low job level
+89,Research & Development,Healthcare Representative,No,0,0.016,Low,Long time since last promotion + Low satisfaction and engagement + Younger age
+90,Sales,Sales Executive,No,1,0.035,Low,Marital status (single) + Income vs experience mismatch + Long time since last promotion
+91,Research & Development,Healthcare Representative,No,0,0.085,Low,Long time since last promotion + Frequent travel / workload stress + Lower WorkLifeBalance
+92,Sales,Sales Executive,Yes,0,0.313,Medium,Works overtime + Lower WorkLifeBalance + Long commute
+93,Sales,Sales Executive,Yes,0,0.117,Low,Works overtime + Low satisfaction and engagement + Lower WorkLifeBalance
+94,Research & Development,Healthcare Representative,Yes,0,0.166,Low,Long time since last promotion + Works overtime + Frequent travel / workload stress
+95,Sales,Sales Executive,No,0,0.094,Low,Long time since last promotion + Low satisfaction and engagement + Marital status (single)
+96,Research & Development,Research Director,No,0,0.171,Low,Many previous employers + Low satisfaction and engagement + Lower WorkLifeBalance
+97,Sales,Sales Executive,No,0,0.187,Low,Low satisfaction and engagement + Income vs experience mismatch + Lower WorkLifeBalance
+98,Sales,Sales Executive,No,0,0.019,Low,Low stock option level + High-turnover job role + Low satisfaction and engagement
+99,Sales,Sales Executive,No,0,0.035,Low,Marital status (single) + Lower WorkLifeBalance + Low stock option level
+100,Research & Development,Laboratory Technician,No,0,0.036,Low,High-turnover job role + Long commute + Low monthly income
+101,Human Resources,Human Resources,Yes,1,0.38,Medium,Education field + Works overtime + Low monthly income
+102,Research & Development,Research Scientist,No,0,0.287,Low,Income vs experience mismatch + Marital status (single) + Few years with current manager
+103,Research & Development,Laboratory Technician,Yes,1,0.874,High,Works overtime + Income vs experience mismatch + Frequent travel / workload stress
+104,Research & Development,Research Scientist,No,0,0.038,Low,Marital status (single) + Low satisfaction and engagement + Low stock option level
+105,Research & Development,Healthcare Representative,No,0,0.002,Low,Many previous employers + Few years with current manager + Few years in current role
+106,Human Resources,Manager,No,0,0.002,Low,Education field + Many previous employers + High-turnover job role
+107,Research & Development,Research Director,Yes,0,0.138,Low,Low satisfaction and engagement + Works overtime + Frequent travel / workload stress
+108,Sales,Sales Executive,Yes,1,0.597,Medium,Works overtime + Marital status (single) + Younger age
+109,Research & Development,Research Scientist,No,0,0.023,Low,Income vs experience mismatch + Younger age + Low monthly income
+110,Research & Development,Laboratory Technician,No,0,0.369,Medium,Income vs experience mismatch + High-turnover job role + Marital status (single)
+111,Research & Development,Healthcare Representative,No,0,0.31,Medium,Long time since last promotion + Low satisfaction and engagement + Frequent travel / workload stress
+112,Research & Development,Laboratory Technician,Yes,1,0.629,High,Low satisfaction and engagement + Works overtime + Frequent travel / workload stress
+113,Human Resources,Manager,Yes,0,0.012,Low,Education field + Works overtime + Long commute
+114,Research & Development,Laboratory Technician,No,0,0.168,Low,High-turnover job role + Long commute + Younger age
+115,Research & Development,Research Scientist,No,0,0.043,Low,Many previous employers + Low satisfaction and engagement + Few years with current manager
+116,Sales,Sales Executive,No,0,0.023,Low,Marital status (single) + Low stock option level + High-turnover job role
+117,Research & Development,Manager,No,0,0.063,Low,Long time since last promotion + Low satisfaction and engagement + Marital status (single)
+118,Sales,Sales Executive,No,0,0.033,Low,Frequent travel / workload stress + Education field + Income vs experience mismatch
+119,Research & Development,Laboratory Technician,No,0,0.097,Low,Low satisfaction and engagement + High-turnover job role + Many previous employers
+120,Sales,Manager,Yes,0,0.029,Low,Works overtime + Frequent travel / workload stress + Long commute
+121,Research & Development,Research Scientist,No,0,0.132,Low,Low satisfaction and engagement + Frequent travel / workload stress + Long commute
+122,Sales,Sales Executive,No,0,0.04,Low,Long commute + Low satisfaction and engagement + High-turnover job role
+123,Research & Development,Research Scientist,Yes,1,0.508,Medium,Many previous employers + Works overtime + Low satisfaction and engagement
+124,Research & Development,Research Director,No,0,0.045,Low,Long time since last promotion + Many previous employers + Marital status (single)
+125,Sales,Sales Executive,Yes,1,0.573,Medium,Low satisfaction and engagement + Works overtime + Long time since last promotion
+126,Research & Development,Research Scientist,No,0,0.118,Low,Low satisfaction and engagement + Long time since last promotion + Lower WorkLifeBalance
+127,Research & Development,Healthcare Representative,No,1,0.068,Low,Long time since last promotion + Long commute + Lower WorkLifeBalance
+128,Sales,Sales Representative,Yes,1,0.942,High,Income vs experience mismatch + Works overtime + High-turnover job role
+129,Research & Development,Laboratory Technician,No,0,0.192,Low,High-turnover job role + Education field + Younger age
+130,Research & Development,Manufacturing Director,No,0,0.019,Low,Long time since last promotion + Long commute + Lower WorkLifeBalance
+131,Research & Development,Research Scientist,No,0,0.098,Low,Long commute + Frequent travel / workload stress + Marital status (single)
+132,Sales,Sales Executive,No,0,0.102,Low,Frequent travel / workload stress + Marital status (single) + Low stock option level
+133,Sales,Sales Executive,Yes,1,0.64,High,Works overtime + Low satisfaction and engagement + Long commute
+134,Sales,Sales Executive,Yes,0,0.051,Low,Works overtime + High-turnover job role + Promotion delay
+135,Human Resources,Human Resources,No,0,0.057,Low,Long commute + Long time since last promotion + Younger age
+136,Research & Development,Manufacturing Director,No,0,0.043,Low,Many previous employers + Lower TrainingTimesLastYear + Few years with current manager
+137,Research & Development,Manufacturing Director,No,1,0.065,Low,Low satisfaction and engagement + Frequent travel / workload stress + Marital status (single)
+138,Sales,Sales Executive,No,0,0.012,Low,Long time since last promotion + High-turnover job role + Many previous employers
+139,Sales,Sales Executive,No,0,0.351,Medium,Long commute + Income vs experience mismatch + Low satisfaction and engagement
+140,Human Resources,Human Resources,Yes,0,0.241,Low,Education field + Works overtime + Lower WorkLifeBalance
+141,Research & Development,Laboratory Technician,No,1,0.552,Medium,Low satisfaction and engagement + Many previous employers + High-turnover job role
+142,Research & Development,Research Scientist,No,0,0.145,Low,Long commute + Marital status (single) + Many previous employers
+143,Research & Development,Research Scientist,Yes,0,0.145,Low,Works overtime + Education field + Marital status (single)
+144,Research & Development,Research Scientist,No,0,0.148,Low,Marital status (single) + Low satisfaction and engagement + Long commute
+145,Sales,Sales Executive,No,0,0.007,Low,Frequent travel / workload stress + High-turnover job role + Promotion delay
+146,Research & Development,Research Scientist,No,0,0.084,Low,Education field + Many previous employers + Low monthly income
+147,Research & Development,Laboratory Technician,No,0,0.154,Low,High-turnover job role + Marital status (single) + Low stock option level
+148,Research & Development,Manager,No,0,0.092,Low,Long time since last promotion + Low satisfaction and engagement + Frequent travel / workload stress
+149,Research & Development,Laboratory Technician,No,0,0.074,Low,High-turnover job role + Low monthly income + Few years in current role
+150,Research & Development,Laboratory Technician,No,0,0.312,Medium,High-turnover job role + Younger age + Marital status (single)
+151,Research & Development,Research Scientist,No,0,0.071,Low,Low satisfaction and engagement + Long commute + Frequent travel / workload stress
+152,Sales,Sales Executive,No,0,0.02,Low,Low satisfaction and engagement + High-turnover job role + Education field
+153,Sales,Sales Representative,Yes,0,0.392,Medium,Works overtime + High-turnover job role + Lower WorkLifeBalance
+154,Research & Development,Laboratory Technician,No,0,0.082,Low,Many previous employers + Lower WorkLifeBalance + High-turnover job role
+155,Sales,Sales Executive,No,0,0.092,Low,Frequent travel / workload stress + Marital status (single) + Income vs experience mismatch
+156,Research & Development,Manufacturing Director,No,0,0.002,Low,Education field + Lower TrainingTimesLastYear + Younger age
+157,Research & Development,Manufacturing Director,No,0,0.041,Low,Low satisfaction and engagement + Few years with current manager + Low stock option level
+158,Research & Development,Research Scientist,Yes,0,0.453,Medium,Low satisfaction and engagement + Works overtime + Lower WorkLifeBalance
+159,Sales,Sales Executive,No,0,0.06,Low,Many previous employers + Lower WorkLifeBalance + High-turnover job role
+160,Sales,Sales Representative,No,0,0.201,Low,High-turnover job role + Frequent travel / workload stress + Many previous employers
+161,Research & Development,Research Scientist,No,0,0.015,Low,Long commute + Younger age + Low monthly income
+162,Research & Development,Research Scientist,No,0,0.024,Low,Lower WorkLifeBalance + Many previous employers + Low monthly income
+163,Research & Development,Research Scientist,No,0,0.099,Low,Lower WorkLifeBalance + Long commute + Low monthly income
+164,Research & Development,Healthcare Representative,Yes,0,0.04,Low,Works overtime + Lower WorkLifeBalance + Long commute
+165,Research & Development,Research Scientist,Yes,0,0.1,Low,Works overtime + Income vs experience mismatch + Lower WorkLifeBalance
+166,Research & Development,Manager,No,0,0.012,Low,Marital status (single) + Long time since last promotion + Income vs experience mismatch
+167,Research & Development,Research Scientist,No,0,0.062,Low,Low satisfaction and engagement + Low monthly income + Many previous employers
+168,Sales,Sales Executive,No,0,0.026,Low,Long time since last promotion + High-turnover job role + Younger age
+169,Sales,Sales Executive,No,0,0.098,Low,Low satisfaction and engagement + Marital status (single) + Low stock option level
+170,Research & Development,Research Scientist,No,0,0.106,Low,Marital status (single) + Low stock option level + Low monthly income
+171,Research & Development,Research Scientist,Yes,0,0.427,Medium,Works overtime + Education field + Lower WorkLifeBalance
+172,Sales,Sales Representative,No,1,0.846,High,Low satisfaction and engagement + High-turnover job role + Income vs experience mismatch
+173,Research & Development,Laboratory Technician,No,0,0.483,Medium,Long time since last promotion + Frequent travel / workload stress + High-turnover job role
+174,Research & Development,Laboratory Technician,No,0,0.012,Low,Long time since last promotion + High-turnover job role + Low satisfaction and engagement
+175,Sales,Sales Executive,Yes,0,0.162,Low,Works overtime + Low satisfaction and engagement + High-turnover job role
+176,Research & Development,Research Scientist,Yes,0,0.15,Low,Works overtime + Low satisfaction and engagement + Many previous employers
+177,Research & Development,Research Scientist,No,0,0.066,Low,Marital status (single) + Low stock option level + Low monthly income
+178,Research & Development,Laboratory Technician,No,1,0.274,Low,High-turnover job role + Younger age + Marital status (single)
+179,Sales,Sales Executive,No,0,0.068,Low,Long time since last promotion + Low satisfaction and engagement + High-turnover job role
+180,Research & Development,Laboratory Technician,No,0,0.076,Low,High-turnover job role + Marital status (single) + Low monthly income
+181,Research & Development,Research Scientist,Yes,0,0.293,Low,Works overtime + Many previous employers + Lower TrainingTimesLastYear
+182,Research & Development,Research Scientist,No,0,0.099,Low,Long commute + Marital status (single) + Low monthly income
+183,Sales,Sales Representative,Yes,1,0.605,High,Works overtime + High-turnover job role + Marital status (single)
+184,Research & Development,Laboratory Technician,No,0,0.082,Low,High-turnover job role + Lower WorkLifeBalance + Low monthly income
+185,Research & Development,Manufacturing Director,No,0,0.005,Low,Income vs experience mismatch + Long commute + Low monthly income
+186,Research & Development,Research Scientist,No,0,0.006,Low,Low monthly income + Long commute + Low job level
+187,Research & Development,Manager,No,0,0.008,Low,Long time since last promotion + Income vs experience mismatch + High-turnover job role
+188,Research & Development,Research Director,No,0,0.002,Low,Many previous employers + Marital status (single) + Low stock option level
+189,Research & Development,Manufacturing Director,No,0,0.021,Low,Frequent travel / workload stress + Lower WorkLifeBalance + Income vs experience mismatch
+190,Research & Development,Healthcare Representative,No,0,0.003,Low,Marital status (single) + Few years with current manager + Low stock option level
+191,Research & Development,Manager,No,0,0.015,Low,Long time since last promotion + Low satisfaction and engagement + High-turnover job role
+192,Research & Development,Research Scientist,No,0,0.031,Low,Marital status (single) + Lower WorkLifeBalance + Low monthly income
+193,Research & Development,Manufacturing Director,Yes,1,0.634,High,Low satisfaction and engagement + Works overtime + Long commute
+194,Research & Development,Research Scientist,No,0,0.001,Low,Low monthly income + Many previous employers + Few years with current manager
+195,Research & Development,Manager,No,0,0.046,Low,Long time since last promotion + Many previous employers + High-turnover job role
+196,Research & Development,Research Scientist,Yes,0,0.395,Medium,Works overtime + Low satisfaction and engagement + Long commute
+197,Research & Development,Laboratory Technician,No,0,0.427,Medium,Frequent travel / workload stress + High-turnover job role + Marital status (single)
+198,Research & Development,Manufacturing Director,No,0,0.003,Low,Long commute + Few years with current manager + Promotion delay
+199,Research & Development,Manufacturing Director,No,0,0.046,Low,Many previous employers + Few years with current manager + Low stock option level
+200,Research & Development,Manufacturing Director,No,0,0.026,Low,Lower WorkLifeBalance + Long commute + Education field
+201,Research & Development,Manufacturing Director,No,0,0.517,Medium,Low satisfaction and engagement + Frequent travel / workload stress + Education field
+202,Research & Development,Manufacturing Director,Yes,0,0.003,Low,Works overtime + Long commute + Lower TrainingTimesLastYear
+203,Research & Development,Research Scientist,Yes,0,0.083,Low,Works overtime + Frequent travel / workload stress + Few years with current manager
+204,Research & Development,Laboratory Technician,Yes,0,0.319,Medium,Works overtime + Many previous employers + High-turnover job role
+205,Research & Development,Healthcare Representative,Yes,1,0.619,High,Works overtime + Low satisfaction and engagement + Long commute
+206,Sales,Sales Executive,No,1,0.014,Low,Long commute + Lower WorkLifeBalance + High-turnover job role
+207,Research & Development,Research Scientist,Yes,0,0.15,Low,Works overtime + Younger age + Lower WorkLifeBalance
+208,Research & Development,Laboratory Technician,No,0,0.381,Medium,Frequent travel / workload stress + High-turnover job role + Marital status (single)
+209,Research & Development,Healthcare Representative,No,0,0.035,Low,Many previous employers + Lower WorkLifeBalance + Income vs experience mismatch
+210,Research & Development,Healthcare Representative,No,0,0.007,Low,Many previous employers + Promotion delay + Few years in current role
+211,Sales,Sales Executive,No,1,0.035,Low,Long time since last promotion + Lower WorkLifeBalance + Low stock option level
+212,Research & Development,Manufacturing Director,No,0,0.013,Low,Long time since last promotion + Marital status (single) + Low stock option level
+213,Sales,Sales Executive,No,0,0.107,Low,Income vs experience mismatch + Frequent travel / workload stress + Marital status (single)
+214,Research & Development,Research Director,No,0,0.02,Low,Lower WorkLifeBalance + Low satisfaction and engagement + Many previous employers
+215,Research & Development,Research Scientist,Yes,1,0.272,Low,Works overtime + Education field + Marital status (single)
+216,Sales,Manager,Yes,0,0.043,Low,Works overtime + Marital status (single) + Few years with current manager
+217,Sales,Sales Executive,No,1,0.81,High,Low satisfaction and engagement + Long commute + Frequent travel / workload stress
+218,Research & Development,Research Scientist,No,1,0.113,Low,Education field + Marital status (single) + Lower WorkLifeBalance
+219,Sales,Sales Executive,No,0,0.041,Low,Long time since last promotion + Many previous employers + Marital status (single)
+220,Sales,Sales Executive,No,0,0.02,Low,High-turnover job role + Education field + Promotion delay
+221,Research & Development,Laboratory Technician,No,0,0.057,Low,Many previous employers + High-turnover job role + Marital status (single)
+222,Research & Development,Research Scientist,No,0,0.069,Low,Many previous employers + Low stock option level + Low monthly income
+223,Research & Development,Research Director,Yes,0,0.062,Low,Works overtime + Frequent travel / workload stress + Income vs experience mismatch
+224,Sales,Sales Executive,No,0,0.008,Low,Long time since last promotion + Low satisfaction and engagement + Lower WorkLifeBalance
+225,Research & Development,Manufacturing Director,No,0,0.002,Low,Low satisfaction and engagement + Low monthly income + Younger age
+226,Research & Development,Research Scientist,No,0,0.03,Low,Few years with current manager + Low monthly income + Low satisfaction and engagement
+227,Sales,Sales Representative,No,0,0.115,Low,High-turnover job role + Frequent travel / workload stress + Long time since last promotion
+228,Sales,Sales Executive,No,0,0.023,Low,Frequent travel / workload stress + Long time since last promotion + High-turnover job role
+229,Sales,Sales Executive,No,0,0.063,Low,Frequent travel / workload stress + Marital status (single) + Low stock option level
+230,Research & Development,Research Scientist,Yes,1,0.527,Medium,Works overtime + Marital status (single) + Long commute
+231,Research & Development,Laboratory Technician,No,0,0.28,Low,Many previous employers + High-turnover job role + Marital status (single)
+232,Research & Development,Manager,No,0,0.009,Low,Long time since last promotion + Education field + Low stock option level
+233,Human Resources,Human Resources,No,0,0.158,Low,Many previous employers + Lower WorkLifeBalance + Low monthly income
+234,Sales,Manager,No,0,0.0,Low,Lower WorkLifeBalance + Few years in current role + High-turnover job role
+235,Research & Development,Laboratory Technician,Yes,1,0.383,Medium,Works overtime + Lower WorkLifeBalance + High-turnover job role
+236,Sales,Manager,Yes,0,0.008,Low,Works overtime + Many previous employers + Long commute
+237,Research & Development,Laboratory Technician,No,1,0.236,Low,Low satisfaction and engagement + Many previous employers + High-turnover job role
+238,Sales,Manager,Yes,0,0.223,Low,Long time since last promotion + Works overtime + Low satisfaction and engagement
+239,Sales,Sales Representative,No,0,0.163,Low,High-turnover job role + Low satisfaction and engagement + Low monthly income
+240,Research & Development,Laboratory Technician,Yes,1,0.485,Medium,Works overtime + Lower WorkLifeBalance + High-turnover job role
+241,Research & Development,Laboratory Technician,No,0,0.035,Low,Many previous employers + High-turnover job role + Low monthly income
+242,Sales,Sales Executive,No,0,0.02,Low,Long commute + Income vs experience mismatch + Low stock option level
+243,Research & Development,Research Scientist,No,0,0.062,Low,Low satisfaction and engagement + Long commute + Lower WorkLifeBalance
+244,Research & Development,Research Scientist,No,0,0.068,Low,Long commute + Low satisfaction and engagement + Education field
+245,Research & Development,Manager,No,0,0.003,Low,Few years in current role + High-turnover job role + Income vs experience mismatch
+246,Research & Development,Research Director,No,0,0.135,Low,Many previous employers + Income vs experience mismatch + Frequent travel / workload stress
+247,Research & Development,Research Scientist,No,0,0.051,Low,Income vs experience mismatch + Lower WorkLifeBalance + Low monthly income
+248,Research & Development,Manufacturing Director,No,0,0.071,Low,Low satisfaction and engagement + Many previous employers + Long time since last promotion
+249,Research & Development,Research Scientist,No,0,0.113,Low,Low satisfaction and engagement + Lower WorkLifeBalance + Few years in current role
+250,Research & Development,Manufacturing Director,No,0,0.056,Low,Frequent travel / workload stress + Many previous employers + Lower TrainingTimesLastYear
+251,Research & Development,Manufacturing Director,No,1,0.05,Low,Low satisfaction and engagement + Frequent travel / workload stress + Many previous employers
+252,Research & Development,Healthcare Representative,No,0,0.166,Low,Long time since last promotion + Frequent travel / workload stress + Education field
+253,Research & Development,Research Scientist,No,0,0.061,Low,Marital status (single) + Low monthly income + Low stock option level
+254,Research & Development,Research Scientist,Yes,0,0.219,Low,Works overtime + Marital status (single) + Long commute
+255,Sales,Sales Executive,No,0,0.02,Low,Long commute + High-turnover job role + Younger age
+256,Research & Development,Manufacturing Director,No,0,0.02,Low,Younger age + Income vs experience mismatch + Few years with current manager
+257,Research & Development,Laboratory Technician,Yes,0,0.185,Low,Works overtime + Long time since last promotion + High-turnover job role
+258,Research & Development,Research Director,No,0,0.001,Low,Income vs experience mismatch + Long time since last promotion + Few years at company
+259,Research & Development,Research Scientist,No,0,0.146,Low,Income vs experience mismatch + Lower WorkLifeBalance + Few years with current manager
+260,Research & Development,Laboratory Technician,No,1,0.482,Medium,Long commute + Low satisfaction and engagement + Frequent travel / workload stress
+261,Research & Development,Laboratory Technician,No,0,0.302,Medium,Lower WorkLifeBalance + Frequent travel / workload stress + High-turnover job role
+262,Sales,Sales Executive,No,0,0.007,Low,Long time since last promotion + Lower TrainingTimesLastYear + High-turnover job role
+263,Research & Development,Laboratory Technician,No,0,0.23,Low,High-turnover job role + Education field + Marital status (single)
+264,Sales,Manager,Yes,0,0.478,Medium,Low satisfaction and engagement + Works overtime + Long time since last promotion
+265,Research & Development,Laboratory Technician,No,1,0.434,Medium,Lower WorkLifeBalance + High-turnover job role + Marital status (single)
+266,Sales,Sales Executive,No,0,0.205,Low,Low satisfaction and engagement + Few years with current manager + High-turnover job role
+267,Research & Development,Healthcare Representative,No,0,0.062,Low,Long time since last promotion + Long commute + Low satisfaction and engagement
+268,Research & Development,Healthcare Representative,No,0,0.003,Low,Younger age + Low monthly income + Lower TrainingTimesLastYear
+269,Research & Development,Healthcare Representative,Yes,0,0.018,Low,Works overtime + Long commute + Long time since last promotion
+270,Research & Development,Laboratory Technician,No,0,0.019,Low,Long time since last promotion + High-turnover job role + Low monthly income
+271,Research & Development,Manager,Yes,0,0.068,Low,Works overtime + Marital status (single) + Long time since last promotion
+272,Research & Development,Manager,Yes,1,0.194,Low,Long time since last promotion + Works overtime + Long commute
+273,Research & Development,Research Scientist,No,0,0.007,Low,Lower WorkLifeBalance + Low monthly income + Younger age
+274,Sales,Sales Executive,No,0,0.021,Low,High-turnover job role + Few years with current manager + Income vs experience mismatch
+275,Research & Development,Research Scientist,No,0,0.159,Low,Marital status (single) + Younger age + Few years with current manager
+276,Research & Development,Research Director,Yes,0,0.01,Low,Works overtime + Low satisfaction and engagement + Income vs experience mismatch
+277,Research & Development,Manager,No,0,0.114,Low,Long time since last promotion + Many previous employers + Income vs experience mismatch
+278,Sales,Sales Executive,Yes,0,0.303,Medium,Works overtime + Long time since last promotion + Low satisfaction and engagement
+279,Research & Development,Manufacturing Director,No,0,0.021,Low,Lower WorkLifeBalance + Frequent travel / workload stress + Low satisfaction and engagement
+280,Research & Development,Research Director,No,0,0.004,Low,Low satisfaction and engagement + Lower WorkLifeBalance + Promotion delay
+281,Research & Development,Research Director,Yes,0,0.007,Low,Works overtime + Lower WorkLifeBalance + Income vs experience mismatch
+282,Sales,Sales Executive,No,0,0.058,Low,Long time since last promotion + Low stock option level + High-turnover job role
+283,Sales,Sales Executive,No,0,0.087,Low,Frequent travel / workload stress + Marital status (single) + Lower WorkLifeBalance
+284,Research & Development,Laboratory Technician,Yes,0,0.119,Low,Works overtime + High-turnover job role + Education field
+285,Research & Development,Healthcare Representative,Yes,0,0.726,High,Low satisfaction and engagement + Works overtime + Frequent travel / workload stress
+286,Research & Development,Research Scientist,No,0,0.024,Low,Long time since last promotion + Marital status (single) + Low monthly income
+287,Research & Development,Laboratory Technician,Yes,1,0.402,Medium,Works overtime + Lower WorkLifeBalance + Frequent travel / workload stress
+288,Research & Development,Healthcare Representative,No,0,0.052,Low,Many previous employers + Long commute + Few years with current manager
+289,Research & Development,Laboratory Technician,Yes,1,0.433,Medium,Works overtime + High-turnover job role + Low satisfaction and engagement
+290,Research & Development,Research Scientist,No,0,0.015,Low,Marital status (single) + Low stock option level + Low monthly income
+291,Research & Development,Research Director,Yes,0,0.355,Medium,Many previous employers + Works overtime + Frequent travel / workload stress
+292,Research & Development,Research Scientist,No,0,0.363,Medium,Long time since last promotion + Education field + Marital status (single)
+293,Sales,Sales Representative,No,0,0.238,Low,High-turnover job role + Frequent travel / workload stress + Income vs experience mismatch
+294,Sales,Sales Executive,Yes,1,0.665,High,Works overtime + Long time since last promotion + Marital status (single)
+295,Research & Development,Research Scientist,Yes,0,0.221,Low,Works overtime + Frequent travel / workload stress + Lower WorkLifeBalance
+296,Sales,Sales Executive,No,0,0.192,Low,Long commute + Frequent travel / workload stress + Many previous employers
+297,Research & Development,Laboratory Technician,No,1,0.359,Medium,Income vs experience mismatch + High-turnover job role + Younger age
+298,Sales,Sales Executive,No,0,0.047,Low,Long time since last promotion + Lower WorkLifeBalance + High-turnover job role
+299,Research & Development,Laboratory Technician,No,0,0.077,Low,Frequent travel / workload stress + High-turnover job role + Long commute
+300,Research & Development,Manufacturing Director,No,0,0.023,Low,Many previous employers + Few years in current role + Low satisfaction and engagement
+301,Sales,Manager,No,0,0.017,Low,Marital status (single) + Low stock option level + High-turnover job role
+302,Sales,Sales Representative,No,0,0.487,Medium,High-turnover job role + Income vs experience mismatch + Younger age
+303,Research & Development,Healthcare Representative,No,0,0.039,Low,Marital status (single) + Low stock option level + Long commute
+304,Sales,Sales Executive,No,0,0.176,Low,Long time since last promotion + Education field + Lower WorkLifeBalance
+305,Research & Development,Healthcare Representative,No,0,0.001,Low,Lower WorkLifeBalance + Long time since last promotion + Few years at company
+306,Research & Development,Laboratory Technician,No,0,0.026,Low,Many previous employers + Long commute + High-turnover job role
+307,Sales,Sales Executive,No,0,0.023,Low,Long time since last promotion + Lower WorkLifeBalance + High-turnover job role
+308,Research & Development,Research Director,No,0,0.085,Low,Low satisfaction and engagement + Long commute + Few years with current manager
+309,Research & Development,Healthcare Representative,Yes,0,0.034,Low,Works overtime + Few years with current manager + Lower DailyRate
+310,Research & Development,Research Scientist,Yes,0,0.138,Low,Works overtime + Education field + Low job level
+311,Human Resources,Human Resources,No,0,0.661,High,Low satisfaction and engagement + Education field + Few years with current manager
+312,Research & Development,Laboratory Technician,No,0,0.263,Low,Low satisfaction and engagement + Long time since last promotion + Frequent travel / workload stress
+313,Research & Development,Research Scientist,Yes,0,0.122,Low,Works overtime + Lower WorkLifeBalance + Low monthly income
+314,Research & Development,Manager,No,0,0.082,Low,Long time since last promotion + Frequent travel / workload stress + Many previous employers
+315,Research & Development,Manager,Yes,0,0.291,Low,Long time since last promotion + Works overtime + Low stock option level
+316,Research & Development,Laboratory Technician,No,0,0.076,Low,Frequent travel / workload stress + High-turnover job role + Marital status (single)
+317,Research & Development,Healthcare Representative,Yes,0,0.111,Low,Works overtime + Many previous employers + Education field
+318,Research & Development,Research Scientist,No,1,0.175,Low,Long time since last promotion + Low satisfaction and engagement + Lower WorkLifeBalance
+319,Research & Development,Research Scientist,Yes,0,0.395,Medium,Works overtime + Marital status (single) + Lower WorkLifeBalance
+320,Sales,Sales Executive,Yes,0,0.597,Medium,Long time since last promotion + Works overtime + Education field
+321,Sales,Sales Executive,Yes,0,0.257,Low,Works overtime + Marital status (single) + Low stock option level
+322,Sales,Sales Executive,No,0,0.004,Low,High-turnover job role + Many previous employers + Education field
+323,Research & Development,Research Scientist,No,0,0.063,Low,Many previous employers + Marital status (single) + Lower WorkLifeBalance
+324,Research & Development,Research Scientist,Yes,1,0.437,Medium,Works overtime + Low satisfaction and engagement + Many previous employers
+325,Research & Development,Research Scientist,No,0,0.005,Low,Long commute + Younger age + Promotion delay
+326,Research & Development,Manufacturing Director,No,0,0.023,Low,Long time since last promotion + Frequent travel / workload stress + Low satisfaction and engagement
+327,Research & Development,Manager,No,0,0.18,Low,Long time since last promotion + Frequent travel / workload stress + Income vs experience mismatch
+328,Sales,Sales Executive,Yes,1,0.173,Low,Works overtime + Lower WorkLifeBalance + Few years with current manager
+329,Sales,Sales Executive,No,0,0.294,Low,Frequent travel / workload stress + Marital status (single) + Lower WorkLifeBalance
+330,Research & Development,Research Director,No,0,0.002,Low,Income vs experience mismatch + Few years with current manager + Many previous employers
+331,Research & Development,Laboratory Technician,No,0,0.04,Low,Frequent travel / workload stress + High-turnover job role + Few years with current manager
+332,Sales,Sales Executive,Yes,0,0.165,Low,Works overtime + Income vs experience mismatch + Lower TrainingTimesLastYear
+333,Research & Development,Research Scientist,No,0,0.067,Low,Frequent travel / workload stress + Marital status (single) + Long commute
+334,Research & Development,Healthcare Representative,No,0,0.139,Low,Many previous employers + Low satisfaction and engagement + Income vs experience mismatch
+335,Research & Development,Research Scientist,No,0,0.042,Low,Long time since last promotion + Many previous employers + Low monthly income
+336,Sales,Sales Executive,Yes,0,0.3,Medium,Works overtime + Low satisfaction and engagement + Income vs experience mismatch
+337,Research & Development,Laboratory Technician,Yes,1,0.561,Medium,Low satisfaction and engagement + Works overtime + High-turnover job role
+338,Research & Development,Laboratory Technician,No,0,0.309,Medium,High-turnover job role + Marital status (single) + Low stock option level
+339,Sales,Sales Executive,No,0,0.015,Low,High-turnover job role + Education field + Younger age
+340,Sales,Sales Executive,No,0,0.088,Low,Low satisfaction and engagement + High-turnover job role + Younger age
+341,Research & Development,Manufacturing Director,No,0,0.017,Low,Many previous employers + Lower WorkLifeBalance + Promotion delay
+342,Research & Development,Research Director,Yes,0,0.021,Low,Works overtime + Income vs experience mismatch + Long commute
+343,Research & Development,Manufacturing Director,Yes,0,0.048,Low,Works overtime + Marital status (single) + Long time since last promotion
+344,Sales,Sales Executive,Yes,0,0.301,Medium,Works overtime + Low satisfaction and engagement + Income vs experience mismatch
+345,Research & Development,Manufacturing Director,No,0,0.018,Low,Education field + Marital status (single) + Low stock option level
+346,Research & Development,Research Scientist,No,0,0.058,Low,Long commute + Younger age + Lower WorkLifeBalance
+347,Research & Development,Manufacturing Director,Yes,0,0.319,Medium,Works overtime + Many previous employers + Marital status (single)
+348,Sales,Sales Representative,No,0,0.394,Medium,High-turnover job role + Frequent travel / workload stress + Low satisfaction and engagement
+349,Research & Development,Research Director,No,0,0.058,Low,Long commute + Marital status (single) + Income vs experience mismatch
+350,Sales,Sales Executive,No,0,0.011,Low,Income vs experience mismatch + Lower WorkLifeBalance + High-turnover job role
+351,Human Resources,Human Resources,Yes,0,0.151,Low,Works overtime + Education field + Few years with current manager
+352,Research & Development,Laboratory Technician,No,0,0.041,Low,High-turnover job role + Low monthly income + Few years in current role
+353,Sales,Manager,No,0,0.284,Low,Lower WorkLifeBalance + Long commute + Low satisfaction and engagement
+354,Research & Development,Research Scientist,Yes,0,0.077,Low,Works overtime + Long time since last promotion + Low satisfaction and engagement
+355,Sales,Sales Executive,Yes,0,0.491,Medium,Works overtime + Many previous employers + Long commute
+356,Sales,Sales Executive,No,0,0.031,Low,Long time since last promotion + High-turnover job role + Younger age
+357,Research & Development,Healthcare Representative,No,0,0.037,Low,Low satisfaction and engagement + Marital status (single) + Few years with current manager
+358,Sales,Sales Representative,Yes,1,0.98,High,Low satisfaction and engagement + Works overtime + High-turnover job role
+359,Sales,Sales Executive,No,0,0.018,Low,Marital status (single) + Few years with current manager + Low stock option level
+360,Sales,Sales Executive,No,0,0.077,Low,Low satisfaction and engagement + Frequent travel / workload stress + High-turnover job role
+361,Research & Development,Healthcare Representative,No,0,0.004,Low,Low stock option level + Few years with current manager + Few years in current role
+362,Research & Development,Laboratory Technician,Yes,0,0.024,Low,Works overtime + High-turnover job role + Low monthly income
+363,Sales,Sales Representative,No,0,0.25,Low,High-turnover job role + Marital status (single) + Younger age
+364,Sales,Sales Representative,Yes,1,0.802,High,Works overtime + Income vs experience mismatch + High-turnover job role
+365,Research & Development,Laboratory Technician,No,0,0.123,Low,High-turnover job role + Many previous employers + Low satisfaction and engagement
+366,Research & Development,Manufacturing Director,No,0,0.007,Low,Few years with current manager + Low stock option level + Few years in current role
+367,Sales,Sales Executive,No,1,0.491,Medium,Long time since last promotion + Low satisfaction and engagement + Frequent travel / workload stress
+368,Research & Development,Healthcare Representative,No,0,0.095,Low,Many previous employers + Education field + Marital status (single)
+369,Sales,Sales Executive,Yes,1,0.493,Medium,Works overtime + Low satisfaction and engagement + Long commute
+370,Research & Development,Research Scientist,Yes,0,0.256,Low,Works overtime + Marital status (single) + Low stock option level
+371,Sales,Sales Representative,No,1,0.425,Medium,Income vs experience mismatch + High-turnover job role + Marital status (single)
+372,Research & Development,Research Scientist,No,0,0.131,Low,Many previous employers + Long commute + Marital status (single)
+373,Research & Development,Healthcare Representative,No,0,0.168,Low,Many previous employers + Marital status (single) + Low satisfaction and engagement
+374,Research & Development,Laboratory Technician,No,0,0.046,Low,High-turnover job role + Younger age + Low monthly income
+375,Sales,Sales Executive,No,0,0.051,Low,Marital status (single) + Low stock option level + High-turnover job role
+376,Research & Development,Healthcare Representative,No,0,0.159,Low,Many previous employers + Low satisfaction and engagement + Marital status (single)
+377,Sales,Sales Executive,No,0,0.021,Low,Lower WorkLifeBalance + High-turnover job role + Many previous employers
+378,Research & Development,Research Scientist,No,0,0.02,Low,Low monthly income + Many previous employers + Few years with current manager
+379,Sales,Sales Executive,Yes,1,0.616,High,Works overtime + Many previous employers + Marital status (single)
+380,Research & Development,Manager,Yes,0,0.011,Low,Works overtime + Marital status (single) + Low stock option level
+381,Sales,Sales Executive,Yes,0,0.054,Low,Works overtime + Younger age + High-turnover job role
+382,Sales,Sales Representative,No,0,0.679,High,High-turnover job role + Income vs experience mismatch + Low satisfaction and engagement
+383,Research & Development,Research Scientist,No,1,0.256,Low,Frequent travel / workload stress + Education field + Marital status (single)
+384,Research & Development,Research Scientist,No,0,0.186,Low,Low satisfaction and engagement + Younger age + Low monthly income
+385,Sales,Sales Executive,No,0,0.132,Low,Long time since last promotion + Low satisfaction and engagement + Few years with current manager
+386,Research & Development,Research Scientist,Yes,1,0.79,High,Many previous employers + Works overtime + Frequent travel / workload stress
+387,Research & Development,Laboratory Technician,No,0,0.127,Low,Long time since last promotion + High-turnover job role + Lower WorkLifeBalance
+388,Sales,Sales Executive,No,0,0.031,Low,Many previous employers + High-turnover job role + Education field
+389,Research & Development,Laboratory Technician,No,0,0.129,Low,Low satisfaction and engagement + High-turnover job role + Low monthly income
+390,Research & Development,Manufacturing Director,Yes,0,0.195,Low,Works overtime + Marital status (single) + Lower WorkLifeBalance
+391,Research & Development,Research Director,No,0,0.015,Low,Low satisfaction and engagement + Long time since last promotion + Few years at company
+392,Research & Development,Laboratory Technician,No,0,0.099,Low,Low satisfaction and engagement + High-turnover job role + Many previous employers
+393,Research & Development,Research Director,No,0,0.02,Low,Low satisfaction and engagement + Lower WorkLifeBalance + Many previous employers
+394,Sales,Sales Executive,No,0,0.087,Low,Many previous employers + Income vs experience mismatch + High-turnover job role
+395,Research & Development,Manufacturing Director,No,0,0.036,Low,Low satisfaction and engagement + Lower WorkLifeBalance + Long time since last promotion
+396,Research & Development,Laboratory Technician,No,0,0.228,Low,Many previous employers + Frequent travel / workload stress + High-turnover job role
+397,Research & Development,Healthcare Representative,Yes,0,0.058,Low,Works overtime + Low stock option level + Many previous employers
+398,Sales,Sales Executive,Yes,0,0.38,Medium,Works overtime + Marital status (single) + Low satisfaction and engagement
+399,Research & Development,Research Scientist,Yes,0,0.11,Low,Long time since last promotion + Works overtime + Long commute
+400,Research & Development,Laboratory Technician,No,0,0.154,Low,High-turnover job role + Low satisfaction and engagement + Low monthly income
+401,Research & Development,Manager,Yes,0,0.028,Low,Works overtime + Frequent travel / workload stress + Income vs experience mismatch
+402,Sales,Sales Executive,No,0,0.024,Low,Many previous employers + Long time since last promotion + Frequent travel / workload stress
+403,Sales,Sales Executive,No,0,0.274,Low,Education field + Marital status (single) + Income vs experience mismatch
+404,Sales,Sales Executive,No,0,0.032,Low,High-turnover job role + Low satisfaction and engagement + Education field
+405,Research & Development,Laboratory Technician,No,0,0.057,Low,High-turnover job role + Long commute + Few years in current role
+406,Research & Development,Laboratory Technician,No,1,0.188,Low,Low satisfaction and engagement + High-turnover job role + Many previous employers
+407,Research & Development,Manufacturing Director,Yes,0,0.024,Low,Works overtime + Low stock option level + Promotion delay
+408,Research & Development,Research Scientist,No,0,0.025,Low,Lower WorkLifeBalance + Low monthly income + Few years with current manager
+409,Research & Development,Manager,No,0,0.003,Low,Lower WorkLifeBalance + Low stock option level + High-turnover job role
+410,Research & Development,Research Scientist,No,0,0.159,Low,Long commute + Low satisfaction and engagement + Frequent travel / workload stress
+411,Research & Development,Manufacturing Director,No,0,0.047,Low,Marital status (single) + Low stock option level + Younger age
+412,Research & Development,Manager,No,0,0.173,Low,Long time since last promotion + Lower WorkLifeBalance + Low satisfaction and engagement
+413,Research & Development,Manufacturing Director,No,0,0.006,Low,Long commute + Lower WorkLifeBalance + Promotion delay
+414,Research & Development,Healthcare Representative,No,0,0.009,Low,Long commute + Frequent travel / workload stress + Education field
+415,Sales,Sales Representative,Yes,1,0.884,High,Works overtime + Low satisfaction and engagement + High-turnover job role
+416,Sales,Sales Representative,No,1,0.13,Low,High-turnover job role + Frequent travel / workload stress + Lower WorkLifeBalance
+417,Research & Development,Laboratory Technician,Yes,0,0.32,Medium,Works overtime + Frequent travel / workload stress + High-turnover job role
+418,Sales,Manager,No,0,0.001,Low,Low stock option level + Income vs experience mismatch + High-turnover job role
+419,Research & Development,Research Scientist,No,0,0.094,Low,Lower WorkLifeBalance + Long commute + Low satisfaction and engagement
+420,Research & Development,Laboratory Technician,No,0,0.034,Low,Lower WorkLifeBalance + High-turnover job role + Low monthly income
+421,Research & Development,Research Director,No,0,0.024,Low,Income vs experience mismatch + Low satisfaction and engagement + Low stock option level
+422,Research & Development,Research Scientist,No,1,0.263,Low,Low satisfaction and engagement + Long commute + Education field
+423,Human Resources,Human Resources,No,1,0.629,High,Income vs experience mismatch + Low satisfaction and engagement + Education field
+424,Sales,Sales Executive,No,0,0.026,Low,Long time since last promotion + Long commute + Low stock option level
+425,Sales,Manager,No,0,0.071,Low,Long commute + Low satisfaction and engagement + Lower WorkLifeBalance
+426,Research & Development,Manager,No,0,0.264,Low,Long time since last promotion + Long commute + Low satisfaction and engagement
+427,Research & Development,Laboratory Technician,No,0,0.04,Low,Long time since last promotion + High-turnover job role + Marital status (single)
+428,Sales,Sales Executive,No,0,0.27,Low,Long time since last promotion + Long commute + Frequent travel / workload stress
+429,Research & Development,Manufacturing Director,No,0,0.012,Low,Many previous employers + Few years in current role + Promotion delay
+430,Research & Development,Research Director,No,0,0.044,Low,Lower WorkLifeBalance + Many previous employers + Low satisfaction and engagement
+431,Research & Development,Laboratory Technician,No,0,0.279,Low,High-turnover job role + Long commute + Marital status (single)
+432,Research & Development,Laboratory Technician,No,0,0.091,Low,Many previous employers + High-turnover job role + Marital status (single)
+433,Research & Development,Research Scientist,No,0,0.025,Low,Long time since last promotion + Low monthly income + Low job level
+434,Sales,Sales Executive,Yes,0,0.074,Low,Works overtime + High-turnover job role + Education field
+435,Research & Development,Manufacturing Director,No,0,0.001,Low,Income vs experience mismatch + Younger age + Promotion delay
+436,Research & Development,Manager,Yes,1,0.208,Low,Works overtime + Long time since last promotion + Many previous employers
+437,Research & Development,Laboratory Technician,No,1,0.271,Low,Low satisfaction and engagement + Many previous employers + High-turnover job role
+438,Sales,Sales Representative,No,0,0.416,Medium,High-turnover job role + Marital status (single) + Low stock option level
+439,Research & Development,Healthcare Representative,Yes,0,0.064,Low,Works overtime + Few years with current manager + Low stock option level
+440,Research & Development,Healthcare Representative,No,1,0.187,Low,Low satisfaction and engagement + Frequent travel / workload stress + Long commute
+441,Human Resources,Human Resources,Yes,1,0.924,High,Education field + Many previous employers + Works overtime
+442,Research & Development,Laboratory Technician,No,0,0.159,Low,Frequent travel / workload stress + High-turnover job role + Few years with current manager
+443,Sales,Sales Executive,No,0,0.062,Low,Long time since last promotion + Marital status (single) + Income vs experience mismatch
+444,Research & Development,Laboratory Technician,No,1,0.771,High,Frequent travel / workload stress + High-turnover job role + Education field
+445,Sales,Sales Executive,No,0,0.041,Low,Long time since last promotion + High-turnover job role + Education field
+446,Sales,Manager,No,0,0.041,Low,Long time since last promotion + Low satisfaction and engagement + Marital status (single)
+447,Sales,Sales Executive,No,0,0.021,Low,Many previous employers + Marital status (single) + Low stock option level
+448,Sales,Sales Executive,No,0,0.216,Low,Many previous employers + Long time since last promotion + Low stock option level
+449,Research & Development,Manufacturing Director,No,0,0.061,Low,Many previous employers + Long time since last promotion + Marital status (single)
+450,Research & Development,Laboratory Technician,No,0,0.077,Low,Frequent travel / workload stress + High-turnover job role + Low monthly income
+451,Sales,Sales Executive,Yes,0,0.234,Low,Works overtime + Marital status (single) + Low stock option level
+452,Research & Development,Manufacturing Director,Yes,0,0.072,Low,Works overtime + Long commute + Long time since last promotion
+453,Sales,Sales Executive,No,0,0.011,Low,High-turnover job role + Long time since last promotion + Low monthly income
+454,Human Resources,Human Resources,Yes,1,0.539,Medium,Works overtime + Frequent travel / workload stress + Lower WorkLifeBalance
+455,Research & Development,Manufacturing Director,No,0,0.026,Low,Education field + Long commute + Many previous employers
+456,Research & Development,Research Director,No,0,0.006,Low,Income vs experience mismatch + Many previous employers + Few years in current role
+457,Sales,Manager,No,0,0.066,Low,Many previous employers + Income vs experience mismatch + Lower WorkLifeBalance
+458,Sales,Sales Representative,Yes,1,0.983,High,Income vs experience mismatch + Works overtime + High-turnover job role
+459,Sales,Sales Executive,No,0,0.081,Low,Low satisfaction and engagement + Long commute + High-turnover job role
+460,Research & Development,Healthcare Representative,Yes,0,0.119,Low,Low satisfaction and engagement + Works overtime + Marital status (single)
+461,Sales,Sales Executive,No,0,0.266,Low,Low satisfaction and engagement + Long commute + Many previous employers
+462,Sales,Sales Executive,No,0,0.072,Low,Marital status (single) + Low stock option level + High-turnover job role
+463,Sales,Sales Executive,No,0,0.029,Low,Long time since last promotion + Long commute + Marital status (single)
+464,Research & Development,Laboratory Technician,Yes,1,0.986,High,Works overtime + Lower WorkLifeBalance + Income vs experience mismatch
+465,Research & Development,Manufacturing Director,No,0,0.031,Low,Education field + Marital status (single) + Low stock option level
+466,Research & Development,Healthcare Representative,No,0,0.035,Low,Frequent travel / workload stress + Many previous employers + Long commute
+467,Sales,Manager,No,0,0.052,Low,Long time since last promotion + Low satisfaction and engagement + Many previous employers
+468,Sales,Sales Executive,No,0,0.016,Low,Long time since last promotion + Low satisfaction and engagement + Income vs experience mismatch
+469,Research & Development,Research Scientist,Yes,0,0.132,Low,Works overtime + Long time since last promotion + Education field
+470,Sales,Sales Executive,No,1,0.013,Low,Many previous employers + Low stock option level + High-turnover job role
+471,Sales,Sales Representative,No,0,0.097,Low,High-turnover job role + Frequent travel / workload stress + Long commute
+472,Research & Development,Healthcare Representative,No,0,0.007,Low,Few years with current manager + Few years in current role + Promotion delay
+473,Research & Development,Manufacturing Director,No,0,0.186,Low,Low satisfaction and engagement + Many previous employers + Long time since last promotion
+474,Research & Development,Research Director,Yes,0,0.004,Low,Works overtime + Long commute + Few years at company
+475,Research & Development,Research Scientist,Yes,0,0.101,Low,Works overtime + Long commute + Younger age
+476,Sales,Sales Executive,No,0,0.116,Low,Long commute + Low satisfaction and engagement + Income vs experience mismatch
+477,Research & Development,Laboratory Technician,No,0,0.331,Medium,High-turnover job role + Income vs experience mismatch + Few years with current manager
+478,Human Resources,Manager,No,0,0.132,Low,Long time since last promotion + Low satisfaction and engagement + Frequent travel / workload stress
+479,Sales,Sales Representative,No,0,0.156,Low,High-turnover job role + Low monthly income + Younger age
+480,Research & Development,Laboratory Technician,Yes,1,0.294,Low,Works overtime + Frequent travel / workload stress + High-turnover job role
+481,Sales,Sales Representative,No,1,0.654,High,Low satisfaction and engagement + High-turnover job role + Frequent travel / workload stress
+482,Research & Development,Research Scientist,Yes,0,0.098,Low,Works overtime + Low monthly income + Low job level
+483,Sales,Sales Executive,No,1,0.221,Low,Lower WorkLifeBalance + Low satisfaction and engagement + Low stock option level
+484,Research & Development,Laboratory Technician,No,0,0.557,Medium,Long commute + High-turnover job role + Marital status (single)
+485,Sales,Sales Executive,No,0,0.009,Low,Long time since last promotion + High-turnover job role + Many previous employers
+486,Research & Development,Research Scientist,No,0,0.014,Low,Low satisfaction and engagement + Lower WorkLifeBalance + Low monthly income
+487,Sales,Sales Executive,Yes,0,0.206,Low,Works overtime + Lower WorkLifeBalance + Few years with current manager
+488,Research & Development,Research Scientist,No,0,0.253,Low,Income vs experience mismatch + Younger age + Marital status (single)
+489,Research & Development,Healthcare Representative,No,0,0.008,Low,Few years with current manager + Low monthly income + Few years in current role
+490,Research & Development,Research Director,Yes,0,0.061,Low,Works overtime + Lower WorkLifeBalance + Few years with current manager
+491,Research & Development,Research Scientist,No,0,0.316,Medium,Marital status (single) + Lower WorkLifeBalance + Few years with current manager
+492,Research & Development,Laboratory Technician,Yes,0,0.113,Low,Works overtime + Frequent travel / workload stress + High-turnover job role
+493,Research & Development,Manager,No,0,0.027,Low,Low satisfaction and engagement + Lower WorkLifeBalance + Many previous employers
+494,Human Resources,Human Resources,No,0,0.231,Low,Low satisfaction and engagement + Marital status (single) + Low stock option level
+495,Sales,Sales Representative,Yes,0,0.303,Medium,Works overtime + High-turnover job role + Education field
+496,Sales,Sales Representative,No,1,0.199,Low,High-turnover job role + Low satisfaction and engagement + Younger age
+497,Sales,Sales Representative,No,0,0.693,High,High-turnover job role + Long commute + Education field
+498,Research & Development,Manager,Yes,0,0.012,Low,Works overtime + Few years with current manager + Many previous employers
+499,Research & Development,Research Scientist,No,0,0.042,Low,Younger age + Low stock option level + Low monthly income
+500,Sales,Sales Executive,No,0,0.055,Low,Income vs experience mismatch + Low stock option level + High-turnover job role
+501,Research & Development,Research Scientist,Yes,0,0.103,Low,Works overtime + Income vs experience mismatch + Lower WorkLifeBalance
+502,Research & Development,Research Scientist,No,0,0.078,Low,Frequent travel / workload stress + Income vs experience mismatch + Few years with current manager
+503,Sales,Sales Executive,No,0,0.191,Low,Long time since last promotion + Many previous employers + Marital status (single)
+504,Research & Development,Research Scientist,No,0,0.01,Low,Long time since last promotion + Lower WorkLifeBalance + Low monthly income
+505,Sales,Sales Executive,No,1,0.207,Low,Low satisfaction and engagement + Long commute + Frequent travel / workload stress
+506,Research & Development,Laboratory Technician,Yes,0,0.181,Low,Works overtime + High-turnover job role + Younger age
+507,Research & Development,Manufacturing Director,No,0,0.008,Low,Long time since last promotion + Income vs experience mismatch + Lower TrainingTimesLastYear
+508,Sales,Sales Executive,No,0,0.123,Low,Low satisfaction and engagement + Lower WorkLifeBalance + High-turnover job role
+509,Research & Development,Research Scientist,No,0,0.189,Low,Long time since last promotion + Low satisfaction and engagement + Marital status (single)
+510,Research & Development,Healthcare Representative,No,0,0.009,Low,Lower WorkLifeBalance + Frequent travel / workload stress + Long time since last promotion
+511,Human Resources,Human Resources,No,0,0.045,Low,Long time since last promotion + Long commute + Few years with current manager
+512,Research & Development,Manufacturing Director,Yes,0,0.158,Low,Works overtime + Low satisfaction and engagement + Few years with current manager
+513,Research & Development,Research Scientist,No,0,0.136,Low,Marital status (single) + Low monthly income + Lower TrainingTimesLastYear
+514,Research & Development,Research Scientist,Yes,1,0.141,Low,Works overtime + Younger age + Marital status (single)
+515,Research & Development,Research Scientist,Yes,1,0.851,High,Low satisfaction and engagement + Long time since last promotion + Works overtime
+516,Research & Development,Laboratory Technician,No,0,0.032,Low,High-turnover job role + Low monthly income + Few years with current manager
+517,Research & Development,Research Scientist,No,0,0.075,Low,Low satisfaction and engagement + Younger age + Low monthly income
+518,Sales,Sales Executive,No,0,0.013,Low,Income vs experience mismatch + Younger age + High-turnover job role
+519,Sales,Sales Executive,No,0,0.031,Low,Marital status (single) + Low stock option level + High-turnover job role
+520,Research & Development,Research Scientist,No,0,0.016,Low,Frequent travel / workload stress + Low satisfaction and engagement + Low monthly income
+521,Sales,Sales Executive,No,0,0.072,Low,Low stock option level + High-turnover job role + Education field
+522,Sales,Sales Executive,Yes,0,0.017,Low,Works overtime + Frequent travel / workload stress + High-turnover job role
+523,Research & Development,Research Scientist,No,0,0.083,Low,Marital status (single) + Income vs experience mismatch + Few years with current manager
+524,Research & Development,Laboratory Technician,Yes,0,0.08,Low,Works overtime + Long commute + High-turnover job role
+525,Research & Development,Healthcare Representative,No,0,0.034,Low,Long time since last promotion + Marital status (single) + Income vs experience mismatch
+526,Sales,Sales Executive,No,1,0.649,High,Many previous employers + Low satisfaction and engagement + Marital status (single)
+527,Research & Development,Healthcare Representative,No,0,0.138,Low,Long time since last promotion + Education field + Marital status (single)
+528,Sales,Sales Executive,No,0,0.03,Low,Marital status (single) + Lower WorkLifeBalance + Low stock option level
+529,Sales,Sales Executive,Yes,1,0.597,Medium,Works overtime + Frequent travel / workload stress + Low satisfaction and engagement
+530,Research & Development,Healthcare Representative,No,0,0.008,Low,Marital status (single) + Lower WorkLifeBalance + Low stock option level
+531,Research & Development,Manufacturing Director,No,0,0.007,Low,Low stock option level + Younger age + Income vs experience mismatch
+532,Research & Development,Research Director,No,0,0.004,Low,Long time since last promotion + Income vs experience mismatch + Marital status (single)
+533,Sales,Sales Executive,No,0,0.036,Low,Marital status (single) + Low stock option level + High-turnover job role
+534,Sales,Sales Executive,Yes,0,0.144,Low,Works overtime + Frequent travel / workload stress + Many previous employers
+535,Research & Development,Research Director,No,0,0.002,Low,Low stock option level + Few years in current role + Few years with current manager
+536,Human Resources,Manager,No,0,0.181,Low,Long time since last promotion + Education field + Low satisfaction and engagement
+537,Sales,Sales Executive,No,0,0.719,High,Many previous employers + Low satisfaction and engagement + Marital status (single)
+538,Research & Development,Manufacturing Director,No,0,0.018,Low,Frequent travel / workload stress + Lower WorkLifeBalance + Income vs experience mismatch
+539,Human Resources,Manager,No,0,0.017,Low,Education field + Income vs experience mismatch + High-turnover job role
+540,Sales,Sales Representative,No,0,0.227,Low,High-turnover job role + Many previous employers + Income vs experience mismatch
+541,Research & Development,Research Scientist,Yes,1,0.629,High,Low satisfaction and engagement + Works overtime + Many previous employers
+542,Research & Development,Research Director,No,0,0.04,Low,Low satisfaction and engagement + Many previous employers + Income vs experience mismatch
+543,Research & Development,Manufacturing Director,Yes,0,0.062,Low,Works overtime + Marital status (single) + Few years with current manager
+544,Research & Development,Laboratory Technician,No,0,0.416,Medium,Low satisfaction and engagement + Long commute + High-turnover job role
+545,Sales,Sales Executive,Yes,0,0.376,Medium,Long time since last promotion + Many previous employers + Works overtime
+546,Sales,Sales Executive,No,0,0.126,Low,Long time since last promotion + Many previous employers + Long commute
+547,Sales,Sales Representative,No,0,0.282,Low,High-turnover job role + Income vs experience mismatch + Marital status (single)
+548,Research & Development,Research Scientist,Yes,1,0.296,Low,Works overtime + Frequent travel / workload stress + Many previous employers
+549,Sales,Sales Executive,No,0,0.047,Low,Frequent travel / workload stress + Income vs experience mismatch + High-turnover job role
+550,Research & Development,Healthcare Representative,No,0,0.168,Low,Marital status (single) + Long time since last promotion + Low stock option level
+551,Research & Development,Laboratory Technician,No,0,0.179,Low,High-turnover job role + Low satisfaction and engagement + Younger age
+552,Human Resources,Human Resources,No,0,0.274,Low,Education field + Many previous employers + Lower WorkLifeBalance
+553,Research & Development,Healthcare Representative,No,0,0.013,Low,Many previous employers + Lower WorkLifeBalance + Low stock option level
+554,Research & Development,Research Scientist,Yes,0,0.177,Low,Works overtime + Marital status (single) + Lower WorkLifeBalance
+555,Research & Development,Healthcare Representative,No,0,0.319,Medium,Low satisfaction and engagement + Many previous employers + Lower WorkLifeBalance
+556,Sales,Sales Representative,No,0,0.082,Low,High-turnover job role + Low monthly income + Younger age
+557,Research & Development,Laboratory Technician,No,0,0.016,Low,High-turnover job role + Marital status (single) + Low stock option level
+558,Research & Development,Healthcare Representative,No,0,0.003,Low,Low satisfaction and engagement + Few years with current manager + Few years in current role
+559,Research & Development,Laboratory Technician,No,0,0.099,Low,Frequent travel / workload stress + Long commute + High-turnover job role
+560,Research & Development,Research Scientist,Yes,0,0.382,Medium,Works overtime + Lower WorkLifeBalance + Many previous employers
+561,Research & Development,Manufacturing Director,No,0,0.052,Low,Low satisfaction and engagement + Few years with current manager + Few years in current role
+562,Sales,Manager,No,0,0.032,Low,Low satisfaction and engagement + Low stock option level + High-turnover job role
+563,Research & Development,Research Scientist,Yes,1,0.13,Low,Works overtime + Long time since last promotion + Marital status (single)
+564,Sales,Sales Executive,No,0,0.125,Low,Long commute + Marital status (single) + Lower WorkLifeBalance
+565,Sales,Sales Representative,No,0,0.707,High,Low satisfaction and engagement + High-turnover job role + Education field
+566,Research & Development,Research Scientist,No,0,0.202,Low,Income vs experience mismatch + Marital status (single) + Younger age
+567,Sales,Sales Executive,Yes,1,0.642,High,Works overtime + Frequent travel / workload stress + Long commute
+568,Sales,Sales Executive,No,0,0.03,Low,Marital status (single) + Income vs experience mismatch + Low stock option level
+569,Research & Development,Manager,Yes,1,0.009,Low,Works overtime + Many previous employers + Income vs experience mismatch
+570,Sales,Sales Executive,No,0,0.084,Low,Low satisfaction and engagement + Marital status (single) + Low stock option level
+571,Research & Development,Research Scientist,No,0,0.007,Low,Long commute + Few years with current manager + Low job level
+572,Research & Development,Laboratory Technician,No,0,0.634,High,Low satisfaction and engagement + Frequent travel / workload stress + High-turnover job role
+573,Research & Development,Healthcare Representative,No,0,0.135,Low,Long commute + Low satisfaction and engagement + Lower WorkLifeBalance
+574,Sales,Sales Executive,No,1,0.716,High,Many previous employers + Education field + Marital status (single)
+575,Research & Development,Research Scientist,No,0,0.029,Low,Marital status (single) + Low stock option level + Low monthly income
+576,Research & Development,Manufacturing Director,Yes,0,0.218,Low,Many previous employers + Works overtime + Long commute
+577,Sales,Sales Executive,No,0,0.093,Low,Frequent travel / workload stress + High-turnover job role + Few years with current manager
+578,Research & Development,Research Scientist,Yes,0,0.117,Low,Works overtime + Long time since last promotion + Lower WorkLifeBalance
+579,Research & Development,Manufacturing Director,Yes,0,0.579,Medium,Works overtime + Frequent travel / workload stress + Many previous employers
+580,Research & Development,Research Scientist,No,0,0.141,Low,Low satisfaction and engagement + Marital status (single) + Low stock option level
+581,Sales,Sales Representative,No,0,0.156,Low,High-turnover job role + Lower WorkLifeBalance + Low satisfaction and engagement
+582,Research & Development,Laboratory Technician,No,0,0.054,Low,High-turnover job role + Low monthly income + Younger age
+583,Research & Development,Healthcare Representative,No,0,0.004,Low,Frequent travel / workload stress + Low monthly income + Long time since last promotion
+584,Sales,Sales Executive,No,0,0.298,Low,Low satisfaction and engagement + Many previous employers + Income vs experience mismatch
+585,Research & Development,Manager,No,0,0.053,Low,Long time since last promotion + Frequent travel / workload stress + Lower WorkLifeBalance
+586,Research & Development,Laboratory Technician,Yes,1,0.242,Low,Works overtime + High-turnover job role + Younger age
+587,Research & Development,Laboratory Technician,No,0,0.088,Low,Income vs experience mismatch + High-turnover job role + Low satisfaction and engagement
+588,Research & Development,Laboratory Technician,No,0,0.034,Low,Many previous employers + High-turnover job role + Low monthly income
+589,Research & Development,Research Director,No,0,0.003,Low,Many previous employers + Low stock option level + Promotion delay
+590,Research & Development,Laboratory Technician,Yes,1,0.721,High,Works overtime + Low satisfaction and engagement + Income vs experience mismatch
+591,Research & Development,Research Director,No,0,0.003,Low,Low stock option level + Income vs experience mismatch + Lower DailyRate
+592,Sales,Sales Executive,No,1,0.582,Medium,Low satisfaction and engagement + Marital status (single) + Many previous employers
+593,Research & Development,Manager,Yes,0,0.031,Low,Works overtime + Lower WorkLifeBalance + Few years with current manager
+594,Research & Development,Manufacturing Director,No,0,0.02,Low,Low satisfaction and engagement + Promotion delay + Low monthly income
+595,Research & Development,Research Scientist,No,0,0.011,Low,Long commute + Low monthly income + Younger age
+596,Research & Development,Research Director,Yes,1,0.095,Low,Long time since last promotion + Works overtime + Many previous employers
+597,Research & Development,Research Scientist,No,0,0.021,Low,Marital status (single) + Lower TrainingTimesLastYear + Low stock option level
+598,Research & Development,Manufacturing Director,Yes,0,0.074,Low,Many previous employers + Works overtime + Few years with current manager
+599,Research & Development,Research Scientist,No,1,0.115,Low,Many previous employers + Marital status (single) + Lower WorkLifeBalance
+600,Human Resources,Human Resources,No,0,0.385,Medium,Education field + Low monthly income + Many previous employers
+601,Research & Development,Manufacturing Director,No,0,0.011,Low,Long time since last promotion + Younger age + Low satisfaction and engagement
+602,Research & Development,Laboratory Technician,No,0,0.532,Medium,Frequent travel / workload stress + High-turnover job role + Many previous employers
+603,Research & Development,Manufacturing Director,Yes,0,0.163,Low,Works overtime + Marital status (single) + Many previous employers
+604,Research & Development,Research Scientist,No,0,0.153,Low,Income vs experience mismatch + Marital status (single) + Few years with current manager
+605,Research & Development,Manufacturing Director,No,0,0.08,Low,Long time since last promotion + Long commute + Lower WorkLifeBalance
+606,Research & Development,Healthcare Representative,No,0,0.389,Medium,Low satisfaction and engagement + Frequent travel / workload stress + Lower WorkLifeBalance
+607,Research & Development,Research Scientist,No,0,0.158,Low,Frequent travel / workload stress + Marital status (single) + Low stock option level
+608,Sales,Sales Executive,No,1,0.009,Low,Long time since last promotion + High-turnover job role + Income vs experience mismatch
+609,Sales,Sales Executive,No,1,0.075,Low,Long time since last promotion + Marital status (single) + Lower WorkLifeBalance
+610,Research & Development,Research Director,No,0,0.028,Low,Low satisfaction and engagement + Many previous employers + Few years with current manager
+611,Research & Development,Research Director,Yes,0,0.065,Low,Works overtime + Income vs experience mismatch + Education field
+612,Research & Development,Manufacturing Director,No,0,0.017,Low,Marital status (single) + Low stock option level + Promotion delay
+613,Sales,Sales Executive,Yes,0,0.538,Medium,Works overtime + Long time since last promotion + Low satisfaction and engagement
+614,Human Resources,Human Resources,No,0,0.166,Low,Education field + Lower WorkLifeBalance + Lower TrainingTimesLastYear
+615,Research & Development,Research Scientist,Yes,1,0.206,Low,Works overtime + Frequent travel / workload stress + Low satisfaction and engagement
+616,Research & Development,Research Scientist,No,0,0.009,Low,Income vs experience mismatch + Lower WorkLifeBalance + Low monthly income
+617,Sales,Manager,No,0,0.016,Low,Long commute + Low satisfaction and engagement + Long time since last promotion
+618,Research & Development,Healthcare Representative,No,0,0.091,Low,Many previous employers + Marital status (single) + Lower WorkLifeBalance
+619,Research & Development,Research Scientist,No,0,0.531,Medium,Many previous employers + Low satisfaction and engagement + Marital status (single)
+620,Sales,Sales Executive,No,0,0.019,Low,Low satisfaction and engagement + High-turnover job role + Low monthly income
+621,Research & Development,Research Scientist,No,0,0.373,Medium,Long commute + Low satisfaction and engagement + Marital status (single)
+622,Sales,Sales Executive,Yes,0,0.059,Low,Works overtime + Long time since last promotion + Lower WorkLifeBalance
+623,Sales,Sales Executive,No,0,0.047,Low,Lower WorkLifeBalance + High-turnover job role + Lower DailyRate
+624,Research & Development,Research Scientist,No,0,0.21,Low,Many previous employers + Frequent travel / workload stress + Low satisfaction and engagement
+625,Sales,Sales Executive,Yes,0,0.3,Medium,Works overtime + Many previous employers + High-turnover job role
+626,Sales,Sales Executive,Yes,0,0.151,Low,Works overtime + High-turnover job role + Many previous employers
+627,Research & Development,Research Scientist,No,0,0.025,Low,Many previous employers + Lower WorkLifeBalance + Younger age
+628,Research & Development,Manufacturing Director,No,0,0.009,Low,Long commute + Frequent travel / workload stress + Few years with current manager
+629,Sales,Sales Executive,No,0,0.065,Low,Few years with current manager + High-turnover job role + Long commute
+630,Human Resources,Human Resources,No,0,0.049,Low,Younger age + Few years in current role + Low job level
+631,Research & Development,Manufacturing Director,No,0,0.119,Low,Lower WorkLifeBalance + Many previous employers + Income vs experience mismatch
+632,Research & Development,Laboratory Technician,Yes,0,0.224,Low,Works overtime + High-turnover job role + Lower WorkLifeBalance
+633,Research & Development,Research Scientist,Yes,0,0.414,Medium,Works overtime + Frequent travel / workload stress + Marital status (single)
+634,Human Resources,Human Resources,No,0,0.167,Low,Low satisfaction and engagement + Low monthly income + Low stock option level
+635,Sales,Sales Executive,Yes,0,0.385,Medium,Works overtime + Younger age + Low stock option level
+636,Research & Development,Manufacturing Director,Yes,0,0.036,Low,Works overtime + Long time since last promotion + Lower TrainingTimesLastYear
+637,Research & Development,Research Scientist,Yes,1,0.605,High,Works overtime + Long time since last promotion + Frequent travel / workload stress
+638,Research & Development,Laboratory Technician,No,0,0.011,Low,High-turnover job role + Low monthly income + Few years in current role
+639,Sales,Sales Executive,No,0,0.474,Medium,Low satisfaction and engagement + Younger age + Low stock option level
+640,Research & Development,Research Scientist,No,0,0.076,Low,Low satisfaction and engagement + Education field + Low monthly income
+641,Research & Development,Laboratory Technician,No,0,0.096,Low,High-turnover job role + Lower WorkLifeBalance + Younger age
+642,Sales,Sales Executive,No,0,0.189,Low,Frequent travel / workload stress + Long time since last promotion + High-turnover job role
+643,Sales,Sales Representative,No,0,0.327,Medium,High-turnover job role + Low satisfaction and engagement + Low monthly income
+644,Research & Development,Laboratory Technician,Yes,0,0.081,Low,Works overtime + High-turnover job role + Lower WorkLifeBalance
+645,Research & Development,Research Scientist,Yes,0,0.052,Low,Works overtime + Low monthly income + Few years with current manager
+646,Sales,Sales Representative,Yes,1,0.3,Low,Works overtime + High-turnover job role + Many previous employers
+647,Sales,Sales Executive,No,0,0.033,Low,Many previous employers + High-turnover job role + Few years in current role
+648,Research & Development,Manufacturing Director,No,0,0.239,Low,Long commute + Low satisfaction and engagement + Education field
+649,Sales,Sales Representative,No,0,0.277,Low,High-turnover job role + Frequent travel / workload stress + Long commute
+650,Research & Development,Research Director,No,0,0.009,Low,Many previous employers + Long commute + Marital status (single)
+651,Research & Development,Healthcare Representative,No,0,0.036,Low,Frequent travel / workload stress + Lower WorkLifeBalance + Many previous employers
+652,Sales,Sales Executive,Yes,0,0.084,Low,Works overtime + Long time since last promotion + High-turnover job role
+653,Sales,Sales Executive,Yes,0,0.301,Medium,Works overtime + Low satisfaction and engagement + Marital status (single)
+654,Research & Development,Manager,No,0,0.099,Low,Long time since last promotion + Low satisfaction and engagement + High-turnover job role
+655,Human Resources,Human Resources,No,0,0.02,Low,Many previous employers + Promotion delay + High-turnover job role
+656,Human Resources,Human Resources,Yes,0,0.2,Low,Education field + Works overtime + Low monthly income
+657,Research & Development,Laboratory Technician,Yes,1,0.938,High,Works overtime + Income vs experience mismatch + Lower WorkLifeBalance
+658,Research & Development,Laboratory Technician,No,0,0.061,Low,High-turnover job role + Many previous employers + Low satisfaction and engagement
+659,Research & Development,Research Scientist,Yes,0,0.59,Medium,Works overtime + Long time since last promotion + Low satisfaction and engagement
+660,Sales,Sales Executive,No,0,0.173,Low,Income vs experience mismatch + Marital status (single) + Low stock option level
+661,Research & Development,Laboratory Technician,Yes,1,0.393,Medium,Many previous employers + Works overtime + Frequent travel / workload stress
+662,Research & Development,Manufacturing Director,No,0,0.089,Low,Low satisfaction and engagement + Income vs experience mismatch + Few years with current manager
+663,Sales,Sales Representative,No,1,0.182,Low,High-turnover job role + Younger age + Marital status (single)
+664,Research & Development,Research Scientist,No,1,0.252,Low,Income vs experience mismatch + Marital status (single) + Younger age
+665,Research & Development,Healthcare Representative,Yes,0,0.057,Low,Works overtime + Long time since last promotion + Lower WorkLifeBalance
+666,Sales,Sales Representative,Yes,0,0.682,High,Works overtime + High-turnover job role + Marital status (single)
+667,Research & Development,Manufacturing Director,Yes,1,0.067,Low,Works overtime + Low satisfaction and engagement + Younger age
+668,Research & Development,Laboratory Technician,Yes,1,0.424,Medium,Works overtime + High-turnover job role + Low satisfaction and engagement
+669,Research & Development,Research Scientist,No,0,0.035,Low,Many previous employers + Low monthly income + Younger age
+670,Research & Development,Laboratory Technician,Yes,1,0.674,High,Works overtime + Lower WorkLifeBalance + Many previous employers
+671,Research & Development,Research Scientist,No,0,0.174,Low,Income vs experience mismatch + Marital status (single) + Few years with current manager
+672,Research & Development,Laboratory Technician,No,0,0.192,Low,Low satisfaction and engagement + High-turnover job role + Income vs experience mismatch
+673,Sales,Sales Executive,No,0,0.242,Low,Many previous employers + Low satisfaction and engagement + Marital status (single)
+674,Research & Development,Research Scientist,Yes,0,0.568,Medium,Low satisfaction and engagement + Works overtime + Marital status (single)
+675,Research & Development,Healthcare Representative,Yes,0,0.101,Low,Works overtime + Education field + Few years in current role
+676,Sales,Sales Representative,No,0,0.252,Low,High-turnover job role + Low satisfaction and engagement + Long time since last promotion
+677,Research & Development,Healthcare Representative,Yes,0,0.022,Low,Works overtime + Lower WorkLifeBalance + Long commute
+678,Research & Development,Laboratory Technician,No,0,0.154,Low,Low satisfaction and engagement + High-turnover job role + Lower WorkLifeBalance
+679,Research & Development,Research Scientist,No,0,0.051,Low,Long commute + Lower WorkLifeBalance + Few years with current manager
+680,Sales,Sales Executive,No,0,0.023,Low,Long commute + Lower WorkLifeBalance + Few years with current manager
+681,Research & Development,Research Scientist,No,0,0.084,Low,Marital status (single) + Low stock option level + Few years with current manager
+682,Research & Development,Research Director,No,0,0.01,Low,Long time since last promotion + Education field + Income vs experience mismatch
+683,Research & Development,Laboratory Technician,No,0,0.104,Low,High-turnover job role + Many previous employers + Low satisfaction and engagement
+684,Sales,Sales Representative,Yes,1,0.816,High,Works overtime + High-turnover job role + Income vs experience mismatch
+685,Sales,Sales Executive,No,0,0.273,Low,Low satisfaction and engagement + Lower WorkLifeBalance + Few years with current manager
+686,Sales,Sales Executive,No,0,0.171,Low,Low satisfaction and engagement + Frequent travel / workload stress + Marital status (single)
+687,Research & Development,Laboratory Technician,Yes,0,0.244,Low,Works overtime + High-turnover job role + Marital status (single)
+688,Research & Development,Laboratory Technician,No,0,0.029,Low,High-turnover job role + Marital status (single) + Low stock option level
+689,Sales,Sales Representative,Yes,1,0.836,High,Works overtime + High-turnover job role + Income vs experience mismatch
+690,Research & Development,Laboratory Technician,No,1,0.949,High,Low satisfaction and engagement + Income vs experience mismatch + High-turnover job role
+691,Research & Development,Healthcare Representative,Yes,0,0.089,Low,Long time since last promotion + Works overtime + Lower WorkLifeBalance
+692,Research & Development,Research Scientist,Yes,0,0.428,Medium,Works overtime + Many previous employers + Frequent travel / workload stress
+693,Research & Development,Manufacturing Director,No,0,0.034,Low,Long time since last promotion + Low satisfaction and engagement + Income vs experience mismatch
+694,Sales,Sales Executive,Yes,1,0.063,Low,Works overtime + High-turnover job role + Low satisfaction and engagement
+695,Research & Development,Healthcare Representative,No,0,0.105,Low,Low satisfaction and engagement + Income vs experience mismatch + Marital status (single)
+696,Sales,Sales Executive,No,1,0.648,High,Long time since last promotion + Low satisfaction and engagement + Lower WorkLifeBalance
+697,Research & Development,Laboratory Technician,No,0,0.012,Low,High-turnover job role + Lower WorkLifeBalance + Low stock option level
+698,Sales,Sales Representative,No,0,0.378,Medium,High-turnover job role + Frequent travel / workload stress + Education field
+699,Sales,Sales Executive,No,0,0.094,Low,Long commute + Few years with current manager + Low stock option level
+700,Research & Development,Manager,No,0,0.005,Low,Long time since last promotion + Lower WorkLifeBalance + High-turnover job role
+701,Research & Development,Research Scientist,No,1,0.13,Low,Education field + Marital status (single) + Few years with current manager
+702,Sales,Manager,No,0,0.022,Low,Long time since last promotion + Many previous employers + High-turnover job role
+703,Sales,Sales Executive,No,0,0.06,Low,Long time since last promotion + Many previous employers + High-turnover job role
+704,Sales,Sales Executive,Yes,0,0.365,Medium,Works overtime + Education field + Marital status (single)
+705,Sales,Sales Executive,No,0,0.003,Low,Many previous employers + High-turnover job role + Promotion delay
+706,Sales,Sales Executive,No,0,0.014,Low,Marital status (single) + Low stock option level + High-turnover job role
+707,Sales,Sales Executive,Yes,1,0.092,Low,Works overtime + Long commute + Marital status (single)
+708,Research & Development,Manufacturing Director,Yes,0,0.031,Low,Works overtime + Frequent travel / workload stress + Low stock option level
+709,Sales,Sales Executive,No,0,0.014,Low,Education field + High-turnover job role + Many previous employers
+710,Research & Development,Research Scientist,Yes,1,0.38,Medium,Low satisfaction and engagement + Works overtime + Marital status (single)
+711,Sales,Manager,No,0,0.027,Low,Income vs experience mismatch + Long time since last promotion + Marital status (single)
+712,Research & Development,Research Scientist,Yes,1,0.618,High,Works overtime + Many previous employers + Marital status (single)
+713,Research & Development,Research Scientist,No,0,0.119,Low,Marital status (single) + Low stock option level + Low monthly income
+714,Research & Development,Laboratory Technician,No,0,0.005,Low,High-turnover job role + Low monthly income + Few years with current manager
+715,Research & Development,Research Director,No,0,0.004,Low,Many previous employers + Lower WorkLifeBalance + Lower TrainingTimesLastYear
+716,Research & Development,Healthcare Representative,Yes,0,0.128,Low,Works overtime + Frequent travel / workload stress + Income vs experience mismatch
+717,Research & Development,Research Director,No,0,0.002,Low,Low satisfaction and engagement + Frequent travel / workload stress + Income vs experience mismatch
+718,Research & Development,Laboratory Technician,No,0,0.624,High,Many previous employers + High-turnover job role + Education field
+719,Research & Development,Laboratory Technician,Yes,0,0.051,Low,Works overtime + High-turnover job role + Long commute
+720,Sales,Sales Executive,Yes,0,0.103,Low,Works overtime + Marital status (single) + Lower TrainingTimesLastYear
+721,Research & Development,Research Scientist,Yes,1,0.669,High,Works overtime + Low satisfaction and engagement + Long commute
+722,Research & Development,Manufacturing Director,Yes,0,0.007,Low,Works overtime + Long commute + Promotion delay
+723,Research & Development,Research Scientist,No,0,0.14,Low,Frequent travel / workload stress + Lower WorkLifeBalance + Lower TrainingTimesLastYear
+724,Research & Development,Manufacturing Director,No,0,0.006,Low,Many previous employers + Income vs experience mismatch + Promotion delay
+725,Research & Development,Manufacturing Director,No,0,0.016,Low,Younger age + Long commute + Few years with current manager
+726,Research & Development,Laboratory Technician,Yes,1,0.532,Medium,Works overtime + Lower WorkLifeBalance + High-turnover job role
+727,Research & Development,Manufacturing Director,No,0,0.084,Low,Frequent travel / workload stress + Low satisfaction and engagement + Income vs experience mismatch
+728,Research & Development,Research Scientist,No,0,0.087,Low,Income vs experience mismatch + Younger age + Marital status (single)
+729,Research & Development,Manufacturing Director,No,0,0.017,Low,Many previous employers + Education field + Long commute
+730,Research & Development,Healthcare Representative,Yes,0,0.143,Low,Long time since last promotion + Works overtime + Long commute
+731,Research & Development,Research Director,Yes,0,0.022,Low,Works overtime + Income vs experience mismatch + Lower WorkLifeBalance
+732,Research & Development,Research Scientist,Yes,1,0.802,High,Works overtime + Low satisfaction and engagement + Income vs experience mismatch
+733,Research & Development,Laboratory Technician,No,1,0.479,Medium,Low satisfaction and engagement + Frequent travel / workload stress + High-turnover job role
+734,Research & Development,Manufacturing Director,No,0,0.008,Low,Low stock option level + Younger age + Few years with current manager
+735,Research & Development,Laboratory Technician,No,0,0.763,High,Low satisfaction and engagement + High-turnover job role + Younger age
+736,Research & Development,Healthcare Representative,No,0,0.069,Low,Low satisfaction and engagement + Marital status (single) + Lower TrainingTimesLastYear
+737,Research & Development,Healthcare Representative,No,0,0.023,Low,Many previous employers + Marital status (single) + Long time since last promotion
+738,Research & Development,Manufacturing Director,No,0,0.026,Low,Many previous employers + Marital status (single) + Low stock option level
+739,Research & Development,Manufacturing Director,No,0,0.01,Low,Long time since last promotion + Lower DailyRate + Few years at company
+740,Research & Development,Manufacturing Director,No,0,0.04,Low,Low satisfaction and engagement + Income vs experience mismatch + Younger age
+741,Research & Development,Laboratory Technician,No,0,0.109,Low,High-turnover job role + Income vs experience mismatch + Lower WorkLifeBalance
+742,Sales,Manager,No,0,0.012,Low,Many previous employers + Few years with current manager + Low stock option level
+743,Research & Development,Laboratory Technician,No,0,0.152,Low,High-turnover job role + Few years with current manager + Low stock option level
+744,Research & Development,Manufacturing Director,Yes,0,0.029,Low,Works overtime + Marital status (single) + Long time since last promotion
+745,Research & Development,Healthcare Representative,No,1,0.43,Medium,Low satisfaction and engagement + Lower WorkLifeBalance + Many previous employers
+746,Research & Development,Healthcare Representative,Yes,0,0.103,Low,Works overtime + Frequent travel / workload stress + Long time since last promotion
+747,Research & Development,Research Director,No,0,0.001,Low,Low satisfaction and engagement + Long time since last promotion + Income vs experience mismatch
+748,Sales,Sales Executive,Yes,0,0.455,Medium,Works overtime + Many previous employers + Marital status (single)
+749,Sales,Sales Executive,No,1,0.447,Medium,Low satisfaction and engagement + Many previous employers + Long commute
+750,Sales,Manager,No,1,0.011,Low,Long time since last promotion + Low satisfaction and engagement + High-turnover job role
+751,Sales,Sales Executive,Yes,0,0.021,Low,Long time since last promotion + Works overtime + Long commute
+752,Sales,Sales Executive,No,0,0.002,Low,High-turnover job role + Lower DailyRate + Promotion delay
+753,Research & Development,Laboratory Technician,No,1,0.375,Medium,Long time since last promotion + High-turnover job role + Marital status (single)
+754,Research & Development,Manufacturing Director,Yes,0,0.448,Medium,Works overtime + Frequent travel / workload stress + Long commute
+755,Sales,Sales Representative,No,0,0.16,Low,High-turnover job role + Marital status (single) + Lower WorkLifeBalance
+756,Sales,Manager,No,0,0.004,Low,Few years with current manager + High-turnover job role + Promotion delay
+757,Research & Development,Laboratory Technician,No,0,0.283,Low,Many previous employers + Long time since last promotion + Long commute
+758,Sales,Sales Executive,No,0,0.023,Low,Lower WorkLifeBalance + High-turnover job role + Few years in current role
+759,Sales,Manager,Yes,0,0.303,Medium,Works overtime + Lower WorkLifeBalance + Education field
+760,Human Resources,Human Resources,No,0,0.446,Medium,Low satisfaction and engagement + Long commute + Marital status (single)
+761,Sales,Sales Executive,No,0,0.111,Low,Low satisfaction and engagement + Long time since last promotion + Frequent travel / workload stress
+762,Research & Development,Laboratory Technician,No,1,0.206,Low,Many previous employers + Low satisfaction and engagement + High-turnover job role
+763,Research & Development,Research Scientist,Yes,1,0.687,High,Low satisfaction and engagement + Works overtime + Frequent travel / workload stress
+764,Sales,Sales Representative,Yes,0,0.373,Medium,Works overtime + High-turnover job role + Income vs experience mismatch
+765,Sales,Sales Representative,No,0,0.108,Low,High-turnover job role + Low monthly income + Few years with current manager
+766,Research & Development,Research Scientist,No,0,0.073,Low,Frequent travel / workload stress + Low monthly income + Few years with current manager
+767,Research & Development,Research Director,Yes,0,0.013,Low,Works overtime + Long time since last promotion + Lower WorkLifeBalance
+768,Research & Development,Healthcare Representative,No,0,0.078,Low,Marital status (single) + Lower WorkLifeBalance + Low stock option level
+769,Sales,Sales Executive,No,0,0.386,Medium,Long time since last promotion + Long commute + Low satisfaction and engagement
+770,Research & Development,Research Scientist,No,0,0.045,Low,Low satisfaction and engagement + Frequent travel / workload stress + Low monthly income
+771,Research & Development,Research Director,No,0,0.002,Low,Many previous employers + Lower TrainingTimesLastYear + Income vs experience mismatch
+772,Sales,Sales Executive,No,0,0.084,Low,Long time since last promotion + Many previous employers + Few years with current manager
+773,Research & Development,Research Scientist,No,0,0.052,Low,Low satisfaction and engagement + Frequent travel / workload stress + Low monthly income
+774,Research & Development,Manufacturing Director,No,0,0.074,Low,Long time since last promotion + Marital status (single) + Lower WorkLifeBalance
+775,Research & Development,Manager,No,0,0.021,Low,Low satisfaction and engagement + Long time since last promotion + Many previous employers
+776,Sales,Sales Executive,No,0,0.037,Low,Long commute + Many previous employers + Few years with current manager
+777,Sales,Sales Representative,Yes,1,0.517,Medium,Works overtime + High-turnover job role + Frequent travel / workload stress
+778,Research & Development,Laboratory Technician,No,1,0.567,Medium,Low satisfaction and engagement + High-turnover job role + Marital status (single)
+779,Research & Development,Research Scientist,Yes,0,0.076,Low,Works overtime + Low satisfaction and engagement + Many previous employers
+780,Research & Development,Research Scientist,Yes,1,0.106,Low,Many previous employers + Works overtime + Low satisfaction and engagement
+781,Research & Development,Healthcare Representative,No,1,0.182,Low,Low satisfaction and engagement + Long commute + Education field
+782,Research & Development,Laboratory Technician,No,0,0.438,Medium,Low satisfaction and engagement + High-turnover job role + Younger age
+783,Research & Development,Manufacturing Director,No,0,0.187,Low,Income vs experience mismatch + Long commute + Lower WorkLifeBalance
+784,Research & Development,Research Scientist,No,0,0.014,Low,Education field + Low stock option level + Low monthly income
+785,Research & Development,Healthcare Representative,No,0,0.012,Low,Low satisfaction and engagement + Lower WorkLifeBalance + Long commute
+786,Research & Development,Healthcare Representative,No,0,0.139,Low,Long time since last promotion + Education field + Long commute
+787,Research & Development,Laboratory Technician,No,0,0.093,Low,Low satisfaction and engagement + Income vs experience mismatch + High-turnover job role
+788,Research & Development,Manufacturing Director,No,0,0.008,Low,Frequent travel / workload stress + Few years with current manager + Few years in current role
+789,Research & Development,Research Scientist,No,0,0.015,Low,Marital status (single) + Low stock option level + Younger age
+790,Human Resources,Human Resources,No,1,0.175,Low,Many previous employers + Low satisfaction and engagement + Lower TrainingTimesLastYear
+791,Research & Development,Healthcare Representative,No,0,0.006,Low,Many previous employers + Few years with current manager + Few years in current role
+792,Sales,Sales Executive,Yes,1,0.225,Low,Works overtime + Education field + Low satisfaction and engagement
+793,Research & Development,Research Scientist,No,1,0.153,Low,Low satisfaction and engagement + Long commute + Frequent travel / workload stress
+794,Research & Development,Laboratory Technician,No,0,0.116,Low,High-turnover job role + Lower WorkLifeBalance + Low monthly income
+795,Research & Development,Healthcare Representative,No,0,0.168,Low,Frequent travel / workload stress + Marital status (single) + Income vs experience mismatch
+796,Sales,Sales Executive,Yes,0,0.033,Low,Works overtime + Few years with current manager + High-turnover job role
+797,Research & Development,Laboratory Technician,Yes,1,0.214,Low,Works overtime + High-turnover job role + Long time since last promotion
+798,Research & Development,Laboratory Technician,No,1,0.54,Medium,Income vs experience mismatch + High-turnover job role + Long commute
+799,Research & Development,Research Scientist,Yes,1,0.919,High,Low satisfaction and engagement + Works overtime + Long commute
+800,Research & Development,Manager,No,0,0.043,Low,Long time since last promotion + High-turnover job role + Income vs experience mismatch
+801,Research & Development,Laboratory Technician,No,1,0.629,High,Low satisfaction and engagement + Income vs experience mismatch + Frequent travel / workload stress
+802,Sales,Sales Executive,Yes,1,0.205,Low,Works overtime + Frequent travel / workload stress + Marital status (single)
+803,Sales,Sales Executive,No,0,0.043,Low,Frequent travel / workload stress + Income vs experience mismatch + High-turnover job role
+804,Research & Development,Research Scientist,No,0,0.007,Low,Few years with current manager + Few years in current role + Low monthly income
+805,Research & Development,Manager,No,0,0.003,Low,Marital status (single) + Lower WorkLifeBalance + Low stock option level
+806,Sales,Sales Executive,No,0,0.006,Low,Long time since last promotion + High-turnover job role + Low satisfaction and engagement
+807,Research & Development,Healthcare Representative,No,0,0.123,Low,Many previous employers + Marital status (single) + Long time since last promotion
+808,Sales,Sales Executive,Yes,0,0.096,Low,Works overtime + Low satisfaction and engagement + Income vs experience mismatch
+809,Research & Development,Research Scientist,No,0,0.046,Low,Long commute + Low monthly income + Many previous employers
+810,Research & Development,Manufacturing Director,No,0,0.002,Low,Lower WorkLifeBalance + Younger age + Income vs experience mismatch
+811,Sales,Manager,No,0,0.036,Low,Long time since last promotion + High-turnover job role + Education field
+812,Sales,Sales Executive,No,0,0.287,Low,Many previous employers + Marital status (single) + Few years with current manager
+813,Research & Development,Manufacturing Director,No,0,0.143,Low,Many previous employers + Long commute + Frequent travel / workload stress
+814,Research & Development,Healthcare Representative,No,1,0.014,Low,Long time since last promotion + Many previous employers + Frequent travel / workload stress
+815,Research & Development,Research Director,No,0,0.013,Low,Low satisfaction and engagement + Marital status (single) + Long time since last promotion
+816,Research & Development,Research Scientist,Yes,0,0.243,Low,Works overtime + Education field + Marital status (single)
+817,Research & Development,Laboratory Technician,No,0,0.246,Low,Many previous employers + High-turnover job role + Marital status (single)
+818,Research & Development,Manufacturing Director,No,0,0.037,Low,Low satisfaction and engagement + Marital status (single) + Long commute
+819,Sales,Sales Representative,No,0,0.117,Low,High-turnover job role + Frequent travel / workload stress + Long commute
+820,Research & Development,Research Scientist,No,0,0.322,Medium,Low satisfaction and engagement + Lower WorkLifeBalance + Low stock option level
+821,Sales,Sales Executive,No,0,0.034,Low,Frequent travel / workload stress + High-turnover job role + Income vs experience mismatch
+822,Sales,Sales Executive,No,0,0.045,Low,Many previous employers + Education field + Low satisfaction and engagement
+823,Research & Development,Manufacturing Director,No,0,0.071,Low,Frequent travel / workload stress + Marital status (single) + Lower WorkLifeBalance
+824,Research & Development,Research Scientist,No,0,0.029,Low,Frequent travel / workload stress + Lower WorkLifeBalance + Few years with current manager
+825,Research & Development,Laboratory Technician,No,0,0.541,Medium,Low satisfaction and engagement + Long commute + High-turnover job role
+826,Research & Development,Manufacturing Director,Yes,0,0.213,Low,Works overtime + Lower WorkLifeBalance + Younger age
+827,Human Resources,Human Resources,No,0,0.041,Low,Education field + Long time since last promotion + Few years with current manager
+828,Research & Development,Research Scientist,Yes,0,0.229,Low,Works overtime + Frequent travel / workload stress + Low monthly income
+829,Research & Development,Laboratory Technician,No,1,0.354,Medium,Income vs experience mismatch + High-turnover job role + Younger age
+830,Sales,Sales Executive,Yes,1,0.787,High,Low satisfaction and engagement + Works overtime + Income vs experience mismatch
+831,Research & Development,Laboratory Technician,Yes,0,0.483,Medium,Works overtime + High-turnover job role + Few years with current manager
+832,Research & Development,Laboratory Technician,No,1,0.176,Low,Frequent travel / workload stress + High-turnover job role + Lower WorkLifeBalance
+833,Research & Development,Healthcare Representative,No,0,0.028,Low,Many previous employers + Long commute + Few years in current role
+834,Research & Development,Research Scientist,No,0,0.071,Low,Lower TrainingTimesLastYear + Low monthly income + Younger age
+835,Sales,Sales Executive,No,0,0.092,Low,Low satisfaction and engagement + Lower WorkLifeBalance + Low stock option level
+836,Human Resources,Human Resources,No,0,0.442,Medium,Lower WorkLifeBalance + Education field + Marital status (single)
+837,Sales,Sales Executive,No,1,0.096,Low,Low satisfaction and engagement + Lower WorkLifeBalance + Long commute
+838,Research & Development,Research Director,No,0,0.098,Low,Many previous employers + Frequent travel / workload stress + Marital status (single)
+839,Sales,Sales Executive,Yes,1,0.765,High,Long time since last promotion + Works overtime + Frequent travel / workload stress
+840,Sales,Sales Executive,No,0,0.303,Medium,Many previous employers + Marital status (single) + Low satisfaction and engagement
+841,Research & Development,Laboratory Technician,No,0,0.14,Low,High-turnover job role + Many previous employers + Low monthly income
+842,Research & Development,Laboratory Technician,No,0,0.493,Medium,Many previous employers + Long commute + High-turnover job role
+843,Research & Development,Laboratory Technician,Yes,1,0.391,Medium,Works overtime + Income vs experience mismatch + High-turnover job role
+844,Research & Development,Laboratory Technician,No,0,0.024,Low,High-turnover job role + Younger age + Low job level
+845,Sales,Sales Executive,No,0,0.221,Low,Low satisfaction and engagement + High-turnover job role + Education field
+846,Research & Development,Research Scientist,Yes,0,0.477,Medium,Works overtime + Lower WorkLifeBalance + Frequent travel / workload stress
+847,Research & Development,Manufacturing Director,No,0,0.009,Low,Long time since last promotion + Low satisfaction and engagement + Lower TrainingTimesLastYear
+848,Research & Development,Healthcare Representative,No,0,0.033,Low,Frequent travel / workload stress + Marital status (single) + Long time since last promotion
+849,Research & Development,Laboratory Technician,No,0,0.112,Low,Frequent travel / workload stress + High-turnover job role + Low monthly income
+850,Sales,Sales Executive,No,1,0.812,High,Low satisfaction and engagement + Many previous employers + Marital status (single)
+851,Sales,Sales Representative,No,0,0.122,Low,Income vs experience mismatch + High-turnover job role + Few years with current manager
+852,Research & Development,Manager,No,0,0.007,Low,Education field + Long time since last promotion + Many previous employers
+853,Research & Development,Laboratory Technician,No,0,0.019,Low,High-turnover job role + Low monthly income + Younger age
+854,Research & Development,Research Scientist,No,0,0.34,Medium,Income vs experience mismatch + Younger age + Marital status (single)
+855,Research & Development,Research Scientist,Yes,0,0.307,Medium,Works overtime + Low satisfaction and engagement + Lower WorkLifeBalance
+856,Research & Development,Manufacturing Director,No,0,0.02,Low,Lower WorkLifeBalance + Long time since last promotion + Lower TrainingTimesLastYear
+857,Research & Development,Laboratory Technician,No,0,0.762,High,Low satisfaction and engagement + High-turnover job role + Income vs experience mismatch
+858,Research & Development,Research Scientist,Yes,1,0.095,Low,Works overtime + Marital status (single) + Low stock option level
+859,Research & Development,Manager,No,0,0.001,Low,Long time since last promotion + High-turnover job role + Income vs experience mismatch
+860,Research & Development,Research Scientist,Yes,0,0.453,Medium,Low satisfaction and engagement + Works overtime + Lower WorkLifeBalance
+861,Research & Development,Research Scientist,Yes,1,0.37,Medium,Works overtime + Income vs experience mismatch + Frequent travel / workload stress
+862,Sales,Manager,No,0,0.441,Medium,Long time since last promotion + Many previous employers + Low satisfaction and engagement
+863,Research & Development,Research Scientist,No,0,0.035,Low,Marital status (single) + Few years with current manager + Long commute
+864,Human Resources,Human Resources,No,0,0.134,Low,Education field + Low monthly income + Lower DailyRate
+865,Research & Development,Research Scientist,No,1,0.485,Medium,Low satisfaction and engagement + Lower WorkLifeBalance + Many previous employers
+866,Sales,Sales Executive,No,0,0.11,Low,Many previous employers + Long commute + High-turnover job role
+867,Sales,Sales Executive,No,0,0.127,Low,Frequent travel / workload stress + Many previous employers + Few years with current manager
+868,Research & Development,Manager,No,0,0.001,Low,Frequent travel / workload stress + High-turnover job role + Few years with current manager
+869,Research & Development,Laboratory Technician,No,0,0.123,Low,High-turnover job role + Long commute + Low satisfaction and engagement
+870,Research & Development,Research Director,No,0,0.008,Low,Many previous employers + Long commute + Income vs experience mismatch
+871,Sales,Sales Executive,Yes,0,0.097,Low,Works overtime + Long commute + High-turnover job role
+872,Research & Development,Laboratory Technician,No,1,0.302,Medium,Lower WorkLifeBalance + Income vs experience mismatch + High-turnover job role
+873,Sales,Sales Executive,No,0,0.167,Low,Long commute + Frequent travel / workload stress + Low satisfaction and engagement
+874,Research & Development,Laboratory Technician,No,0,0.037,Low,High-turnover job role + Low satisfaction and engagement + Low monthly income
+875,Research & Development,Laboratory Technician,No,0,0.019,Low,Long time since last promotion + High-turnover job role + Lower WorkLifeBalance
+876,Research & Development,Research Scientist,No,0,0.051,Low,Long time since last promotion + Long commute + Marital status (single)
+877,Sales,Sales Representative,No,0,0.347,Medium,High-turnover job role + Long commute + Younger age
+878,Research & Development,Manufacturing Director,No,0,0.006,Low,Education field + Lower WorkLifeBalance + Lower DailyRate
+879,Human Resources,Human Resources,No,0,0.013,Low,Many previous employers + Lower DailyRate + Promotion delay
+880,Sales,Sales Executive,Yes,0,0.02,Low,Works overtime + High-turnover job role + Education field
+881,Research & Development,Laboratory Technician,No,0,0.377,Medium,Frequent travel / workload stress + High-turnover job role + Low satisfaction and engagement
+882,Research & Development,Research Scientist,Yes,0,0.082,Low,Works overtime + Frequent travel / workload stress + Marital status (single)
+883,Research & Development,Manufacturing Director,Yes,0,0.274,Low,Low satisfaction and engagement + Works overtime + Long time since last promotion
+884,Research & Development,Research Scientist,No,0,0.018,Low,Long time since last promotion + Low satisfaction and engagement + Low monthly income
+885,Sales,Sales Executive,No,0,0.462,Medium,Low satisfaction and engagement + Many previous employers + Education field
+886,Sales,Sales Executive,No,0,0.081,Low,Marital status (single) + Younger age + Low stock option level
+887,Research & Development,Research Scientist,Yes,0,0.076,Low,Works overtime + Long time since last promotion + Low monthly income
+888,Research & Development,Research Director,Yes,0,0.23,Low,Low satisfaction and engagement + Works overtime + Frequent travel / workload stress
+889,Sales,Sales Executive,Yes,0,0.046,Low,Works overtime + Long time since last promotion + Lower WorkLifeBalance
+890,Research & Development,Research Scientist,Yes,0,0.307,Medium,Works overtime + Low satisfaction and engagement + Long time since last promotion
+891,Research & Development,Manufacturing Director,No,0,0.011,Low,Lower WorkLifeBalance + Many previous employers + Frequent travel / workload stress
+892,Research & Development,Research Scientist,No,0,0.015,Low,Long time since last promotion + Low monthly income + Low job level
+893,Research & Development,Research Scientist,Yes,1,0.522,Medium,Low satisfaction and engagement + Works overtime + Younger age
+894,Research & Development,Research Scientist,No,0,0.019,Low,Low satisfaction and engagement + Income vs experience mismatch + Younger age
+895,Research & Development,Research Director,No,0,0.001,Low,Low stock option level + Promotion delay + Lower TrainingTimesLastYear
+896,Research & Development,Healthcare Representative,Yes,0,0.198,Low,Works overtime + Income vs experience mismatch + Lower WorkLifeBalance
+897,Research & Development,Healthcare Representative,No,0,0.135,Low,Low satisfaction and engagement + Long commute + Marital status (single)
+898,Sales,Sales Executive,No,0,0.079,Low,Marital status (single) + Many previous employers + Low stock option level
+899,Research & Development,Research Director,No,0,0.002,Low,Low satisfaction and engagement + Income vs experience mismatch + Promotion delay
+900,Research & Development,Manager,No,0,0.004,Low,Low satisfaction and engagement + Few years with current manager + Few years in current role
+901,Research & Development,Research Scientist,No,0,0.075,Low,Frequent travel / workload stress + Education field + Lower WorkLifeBalance
+902,Research & Development,Laboratory Technician,No,0,0.324,Medium,High-turnover job role + Education field + Marital status (single)
+903,Research & Development,Research Scientist,No,0,0.02,Low,Low satisfaction and engagement + Low monthly income + Younger age
+904,Research & Development,Healthcare Representative,Yes,0,0.069,Low,Works overtime + Income vs experience mismatch + Few years with current manager
+905,Research & Development,Research Director,No,0,0.003,Low,Many previous employers + Marital status (single) + Few years with current manager
+906,Research & Development,Research Director,No,0,0.004,Low,Income vs experience mismatch + Lower WorkLifeBalance + Younger age
+907,Research & Development,Research Scientist,No,0,0.088,Low,Education field + Long commute + Lower WorkLifeBalance
+908,Sales,Manager,No,0,0.011,Low,Many previous employers + Low satisfaction and engagement + High-turnover job role
+909,Sales,Sales Executive,Yes,0,0.007,Low,Works overtime + High-turnover job role + Education field
+910,Research & Development,Research Scientist,Yes,0,0.649,High,Income vs experience mismatch + Works overtime + Long commute
+911,Research & Development,Research Scientist,No,0,0.019,Low,Low monthly income + Younger age + Few years in current role
+912,Sales,Sales Representative,Yes,1,0.897,High,Works overtime + High-turnover job role + Frequent travel / workload stress
+913,Research & Development,Research Scientist,Yes,0,0.33,Medium,Works overtime + Marital status (single) + Lower WorkLifeBalance
+914,Sales,Manager,Yes,1,0.21,Low,Low satisfaction and engagement + Works overtime + Marital status (single)
+915,Research & Development,Healthcare Representative,Yes,0,0.128,Low,Long time since last promotion + Works overtime + Few years with current manager
+916,Research & Development,Laboratory Technician,No,1,0.881,High,Low satisfaction and engagement + Lower WorkLifeBalance + Frequent travel / workload stress
+917,Sales,Manager,No,0,0.01,Low,High-turnover job role + Education field + Lower DailyRate
+918,Sales,Sales Executive,Yes,0,0.469,Medium,Works overtime + Marital status (single) + Income vs experience mismatch
+919,Sales,Manager,Yes,0,0.192,Low,Long time since last promotion + Works overtime + Frequent travel / workload stress
+920,Research & Development,Manufacturing Director,No,0,0.007,Low,Many previous employers + Long time since last promotion + Marital status (single)
+921,Research & Development,Laboratory Technician,No,0,0.047,Low,Frequent travel / workload stress + High-turnover job role + Long time since last promotion
+922,Research & Development,Laboratory Technician,Yes,0,0.488,Medium,Works overtime + Frequent travel / workload stress + High-turnover job role
+923,Research & Development,Manager,No,0,0.011,Low,Long time since last promotion + Lower WorkLifeBalance + High-turnover job role
+924,Human Resources,Human Resources,No,0,0.027,Low,Frequent travel / workload stress + Many previous employers + Low monthly income
+925,Research & Development,Research Scientist,Yes,0,0.176,Low,Works overtime + Low stock option level + Low monthly income
+926,Research & Development,Research Scientist,Yes,0,0.165,Low,Works overtime + Many previous employers + Few years with current manager
+927,Sales,Sales Executive,No,0,0.116,Low,Long time since last promotion + Marital status (single) + Low stock option level
+928,Research & Development,Manufacturing Director,Yes,0,0.147,Low,Many previous employers + Works overtime + Long time since last promotion
+929,Research & Development,Healthcare Representative,No,1,0.003,Low,Long commute + Income vs experience mismatch + Promotion delay
+930,Research & Development,Laboratory Technician,Yes,0,0.734,High,Works overtime + Income vs experience mismatch + Frequent travel / workload stress
+931,Research & Development,Laboratory Technician,No,0,0.526,Medium,Long time since last promotion + Low satisfaction and engagement + Frequent travel / workload stress
+932,Research & Development,Manufacturing Director,Yes,0,0.051,Low,Works overtime + Many previous employers + Marital status (single)
+933,Research & Development,Laboratory Technician,Yes,1,0.382,Medium,Works overtime + Long time since last promotion + High-turnover job role
+934,Research & Development,Research Scientist,No,0,0.35,Medium,Education field + Marital status (single) + Lower WorkLifeBalance
+935,Research & Development,Research Scientist,No,0,0.08,Low,Marital status (single) + Lower WorkLifeBalance + Low monthly income
+936,Sales,Sales Executive,No,0,0.003,Low,High-turnover job role + Promotion delay + Younger age
+937,Research & Development,Manager,No,0,0.061,Low,Long commute + Frequent travel / workload stress + Marital status (single)
+938,Research & Development,Manager,Yes,0,0.455,Medium,Long time since last promotion + Works overtime + Many previous employers
+939,Research & Development,Research Scientist,No,0,0.023,Low,Long commute + Low monthly income + Income vs experience mismatch
+940,Research & Development,Laboratory Technician,No,1,0.027,Low,High-turnover job role + Few years with current manager + Younger age
+941,Research & Development,Research Scientist,No,1,0.24,Low,Low satisfaction and engagement + Long commute + Marital status (single)
+942,Research & Development,Laboratory Technician,No,0,0.274,Low,Low satisfaction and engagement + Long time since last promotion + High-turnover job role
+943,Research & Development,Healthcare Representative,No,0,0.016,Low,Education field + Lower TrainingTimesLastYear + Low stock option level
+944,Human Resources,Human Resources,No,0,0.14,Low,Many previous employers + Long time since last promotion + Marital status (single)
+945,Research & Development,Laboratory Technician,No,0,0.009,Low,Long time since last promotion + Low satisfaction and engagement + High-turnover job role
+946,Research & Development,Research Director,Yes,0,0.066,Low,Works overtime + Long commute + Low stock option level
+947,Sales,Sales Executive,Yes,1,0.65,High,Works overtime + Long commute + Marital status (single)
+948,Sales,Sales Executive,Yes,1,0.77,High,Many previous employers + Works overtime + Long time since last promotion
+949,Research & Development,Manager,Yes,0,0.094,Low,Works overtime + Income vs experience mismatch + Low satisfaction and engagement
+950,Research & Development,Manufacturing Director,No,0,0.037,Low,Low satisfaction and engagement + Marital status (single) + Long commute
+951,Sales,Sales Executive,Yes,0,0.028,Low,Long time since last promotion + Works overtime + Lower WorkLifeBalance
+952,Sales,Sales Executive,No,0,0.629,High,Long time since last promotion + Low satisfaction and engagement + Marital status (single)
+953,Sales,Sales Representative,Yes,1,0.669,High,Works overtime + High-turnover job role + Frequent travel / workload stress
+954,Research & Development,Laboratory Technician,No,1,0.119,Low,Low satisfaction and engagement + High-turnover job role + Low stock option level
+955,Research & Development,Manager,Yes,0,0.01,Low,Works overtime + Lower WorkLifeBalance + Low stock option level
+956,Research & Development,Manager,No,0,0.003,Low,Long time since last promotion + Income vs experience mismatch + Many previous employers
+957,Human Resources,Manager,No,0,0.03,Low,Long time since last promotion + Many previous employers + Marital status (single)
+958,Research & Development,Research Scientist,No,0,0.1,Low,Many previous employers + Few years with current manager + Lower TrainingTimesLastYear
+959,Research & Development,Healthcare Representative,No,0,0.002,Low,Lower WorkLifeBalance + Lower TrainingTimesLastYear + Income vs experience mismatch
+960,Research & Development,Research Scientist,No,0,0.017,Low,Long time since last promotion + Marital status (single) + Low stock option level
+961,Sales,Sales Executive,No,0,0.05,Low,Frequent travel / workload stress + High-turnover job role + Education field
+962,Research & Development,Research Scientist,Yes,0,0.321,Medium,Works overtime + Frequent travel / workload stress + Marital status (single)
+963,Human Resources,Manager,Yes,0,0.03,Low,Works overtime + High-turnover job role + Low satisfaction and engagement
+964,Sales,Sales Executive,No,0,0.047,Low,Low satisfaction and engagement + High-turnover job role + Promotion delay
+965,Sales,Sales Executive,No,0,0.077,Low,Long time since last promotion + Marital status (single) + Low stock option level
+966,Research & Development,Laboratory Technician,No,0,0.04,Low,High-turnover job role + Long commute + Lower WorkLifeBalance
+967,Research & Development,Manufacturing Director,Yes,1,0.096,Low,Works overtime + Many previous employers + Long time since last promotion
+968,Research & Development,Laboratory Technician,No,0,0.064,Low,High-turnover job role + Low satisfaction and engagement + Low monthly income
+969,Sales,Sales Executive,No,0,0.275,Low,Long time since last promotion + Frequent travel / workload stress + Lower WorkLifeBalance
+970,Research & Development,Manufacturing Director,No,0,0.005,Low,Marital status (single) + Low stock option level + Promotion delay
+971,Sales,Sales Representative,No,0,0.095,Low,Many previous employers + High-turnover job role + Few years with current manager
+972,Research & Development,Manufacturing Director,No,0,0.075,Low,Education field + Marital status (single) + Lower WorkLifeBalance
+973,Research & Development,Laboratory Technician,No,0,0.023,Low,Income vs experience mismatch + High-turnover job role + Younger age
+974,Research & Development,Laboratory Technician,No,0,0.025,Low,High-turnover job role + Few years with current manager + Lower TrainingTimesLastYear
+975,Sales,Sales Executive,No,0,0.315,Medium,Frequent travel / workload stress + Marital status (single) + Few years with current manager
+976,Sales,Sales Executive,Yes,1,0.395,Medium,Works overtime + Many previous employers + Marital status (single)
+977,Research & Development,Manufacturing Director,Yes,0,0.268,Low,Long time since last promotion + Works overtime + Long commute
+978,Research & Development,Research Scientist,No,0,0.078,Low,Low satisfaction and engagement + Long commute + Education field
+979,Research & Development,Healthcare Representative,No,0,0.021,Low,Long time since last promotion + Many previous employers + Lower TrainingTimesLastYear
+980,Research & Development,Laboratory Technician,No,0,0.246,Low,Long time since last promotion + Long commute + High-turnover job role
+981,Sales,Sales Representative,No,1,0.558,Medium,High-turnover job role + Many previous employers + Frequent travel / workload stress
+982,Sales,Sales Executive,Yes,1,0.347,Medium,Works overtime + Frequent travel / workload stress + Long commute
+983,Research & Development,Research Scientist,No,0,0.005,Low,Frequent travel / workload stress + Low monthly income + Low job level
+984,Research & Development,Healthcare Representative,No,0,0.024,Low,Education field + Marital status (single) + Long time since last promotion
+985,Sales,Sales Executive,No,0,0.242,Low,Low satisfaction and engagement + Long commute + Lower TrainingTimesLastYear
+986,Research & Development,Manufacturing Director,Yes,1,0.055,Low,Works overtime + Long time since last promotion + Long commute
+987,Sales,Sales Executive,Yes,0,0.104,Low,Works overtime + Long commute + High-turnover job role
+988,Sales,Sales Executive,No,0,0.156,Low,Frequent travel / workload stress + Low satisfaction and engagement + Low stock option level
+989,Research & Development,Research Scientist,Yes,0,0.15,Low,Works overtime + Frequent travel / workload stress + Long commute
+990,Research & Development,Research Scientist,Yes,0,0.275,Low,Works overtime + Many previous employers + Low stock option level
+991,Sales,Sales Executive,No,0,0.209,Low,Frequent travel / workload stress + Income vs experience mismatch + Many previous employers
+992,Sales,Sales Executive,Yes,0,0.403,Medium,Works overtime + Low satisfaction and engagement + Lower WorkLifeBalance
+993,Research & Development,Healthcare Representative,No,0,0.004,Low,Long commute + Income vs experience mismatch + Promotion delay
+994,Sales,Sales Executive,No,0,0.199,Low,Long commute + Lower WorkLifeBalance + Income vs experience mismatch
+995,Research & Development,Manufacturing Director,Yes,0,0.034,Low,Works overtime + Frequent travel / workload stress + Long commute
+996,Research & Development,Research Scientist,Yes,0,0.453,Medium,Low satisfaction and engagement + Works overtime + Lower WorkLifeBalance
+997,Sales,Sales Executive,Yes,0,0.175,Low,Works overtime + Long time since last promotion + Low stock option level
+998,Research & Development,Research Scientist,Yes,1,0.273,Low,Works overtime + Long time since last promotion + Marital status (single)
+999,Research & Development,Research Scientist,No,0,0.218,Low,Marital status (single) + Low stock option level + Younger age
+1000,Human Resources,Manager,No,0,0.009,Low,Education field + Low satisfaction and engagement + High-turnover job role
+1001,Research & Development,Laboratory Technician,No,0,0.522,Medium,Many previous employers + Lower WorkLifeBalance + High-turnover job role
+1002,Research & Development,Laboratory Technician,No,0,0.277,Low,Low satisfaction and engagement + High-turnover job role + Marital status (single)
+1003,Research & Development,Manufacturing Director,No,0,0.058,Low,Frequent travel / workload stress + Marital status (single) + Long commute
+1004,Research & Development,Laboratory Technician,No,0,0.364,Medium,High-turnover job role + Education field + Lower WorkLifeBalance
+1005,Research & Development,Laboratory Technician,No,0,0.079,Low,High-turnover job role + Marital status (single) + Low stock option level
+1006,Human Resources,Human Resources,No,0,0.296,Low,Low satisfaction and engagement + Marital status (single) + Lower WorkLifeBalance
+1007,Research & Development,Laboratory Technician,No,1,0.718,High,Low satisfaction and engagement + Long commute + Frequent travel / workload stress
+1008,Research & Development,Healthcare Representative,Yes,1,0.385,Medium,Works overtime + Long time since last promotion + Frequent travel / workload stress
+1009,Research & Development,Research Director,No,0,0.012,Low,Long time since last promotion + Many previous employers + Marital status (single)
+1010,Research & Development,Research Director,Yes,0,0.002,Low,Works overtime + Promotion delay + Many previous employers
+1011,Research & Development,Research Director,No,0,0.0,Low,Few years with current manager + Promotion delay + Higher Gender
+1012,Sales,Sales Executive,Yes,0,0.489,Medium,Works overtime + Low satisfaction and engagement + Marital status (single)
+1013,Sales,Sales Representative,No,1,0.581,Medium,Low satisfaction and engagement + High-turnover job role + Frequent travel / workload stress
+1014,Sales,Sales Executive,No,0,0.121,Low,Many previous employers + High-turnover job role + Education field
+1015,Research & Development,Research Director,No,0,0.078,Low,Income vs experience mismatch + Low satisfaction and engagement + Marital status (single)
+1016,Research & Development,Research Scientist,No,0,0.036,Low,Frequent travel / workload stress + Many previous employers + Low monthly income
+1017,Research & Development,Research Scientist,No,1,0.184,Low,Low satisfaction and engagement + Marital status (single) + Low monthly income
+1018,Research & Development,Laboratory Technician,No,0,0.19,Low,Low satisfaction and engagement + High-turnover job role + Low monthly income
+1019,Research & Development,Laboratory Technician,No,0,0.221,Low,High-turnover job role + Low satisfaction and engagement + Marital status (single)
+1020,Sales,Sales Executive,No,0,0.344,Medium,Low satisfaction and engagement + Lower WorkLifeBalance + High-turnover job role
+1021,Research & Development,Research Scientist,No,0,0.192,Low,Many previous employers + Education field + Lower WorkLifeBalance
+1022,Sales,Sales Representative,No,1,0.827,High,Low satisfaction and engagement + High-turnover job role + Younger age
+1023,Research & Development,Laboratory Technician,No,0,0.153,Low,Lower WorkLifeBalance + High-turnover job role + Education field
+1024,Research & Development,Research Scientist,No,0,0.026,Low,Low satisfaction and engagement + Few years with current manager + Low monthly income
+1025,Research & Development,Research Director,No,0,0.002,Low,Low satisfaction and engagement + Long time since last promotion + Lower DailyRate
+1026,Sales,Sales Executive,Yes,0,0.029,Low,Works overtime + Younger age + High-turnover job role
+1027,Sales,Sales Executive,No,0,0.033,Low,Income vs experience mismatch + Lower WorkLifeBalance + High-turnover job role
+1028,Research & Development,Laboratory Technician,No,0,0.251,Low,High-turnover job role + Low satisfaction and engagement + Many previous employers
+1029,Research & Development,Research Scientist,Yes,0,0.132,Low,Works overtime + Lower WorkLifeBalance + Low monthly income
+1030,Research & Development,Laboratory Technician,No,0,0.003,Low,High-turnover job role + Low monthly income + Promotion delay
+1031,Sales,Sales Executive,No,0,0.083,Low,Long time since last promotion + Low satisfaction and engagement + High-turnover job role
+1032,Sales,Sales Executive,No,1,0.03,Low,Low satisfaction and engagement + Long time since last promotion + High-turnover job role
+1033,Research & Development,Laboratory Technician,Yes,1,0.519,Medium,Low satisfaction and engagement + Works overtime + High-turnover job role
+1034,Research & Development,Manufacturing Director,No,1,0.012,Low,Frequent travel / workload stress + Marital status (single) + Long time since last promotion
+1035,Research & Development,Healthcare Representative,Yes,0,0.076,Low,Low satisfaction and engagement + Works overtime + Long commute
+1036,Human Resources,Human Resources,No,0,0.118,Low,Many previous employers + Marital status (single) + Low monthly income
+1037,Research & Development,Laboratory Technician,Yes,1,0.757,High,Works overtime + Lower WorkLifeBalance + Frequent travel / workload stress
+1038,Research & Development,Manufacturing Director,Yes,0,0.144,Low,Works overtime + Long commute + Education field
+1039,Sales,Sales Executive,No,0,0.047,Low,Low satisfaction and engagement + High-turnover job role + Many previous employers
+1040,Human Resources,Human Resources,No,1,0.235,Low,Education field + Income vs experience mismatch + Lower TrainingTimesLastYear
+1041,Research & Development,Research Director,No,0,0.001,Low,Long time since last promotion + Income vs experience mismatch + Lower DailyRate
+1042,Sales,Sales Executive,No,0,0.095,Low,Income vs experience mismatch + Marital status (single) + Low stock option level
+1043,Research & Development,Laboratory Technician,No,0,0.066,Low,High-turnover job role + Marital status (single) + Low stock option level
+1044,Research & Development,Research Director,No,0,0.012,Low,Long time since last promotion + Marital status (single) + Lower WorkLifeBalance
+1045,Research & Development,Healthcare Representative,No,0,0.065,Low,Low satisfaction and engagement + Education field + Lower WorkLifeBalance
+1046,Research & Development,Research Scientist,No,0,0.008,Low,Low monthly income + Few years in current role + Few years with current manager
+1047,Research & Development,Research Scientist,No,0,0.091,Low,Marital status (single) + Long commute + Lower WorkLifeBalance
+1048,Sales,Sales Executive,No,0,0.125,Low,Frequent travel / workload stress + Low satisfaction and engagement + High-turnover job role
+1049,Sales,Sales Executive,No,0,0.091,Low,Low satisfaction and engagement + Marital status (single) + Low stock option level
+1050,Sales,Sales Executive,No,0,0.146,Low,Many previous employers + Income vs experience mismatch + Lower WorkLifeBalance
+1051,Research & Development,Laboratory Technician,No,0,0.245,Low,Frequent travel / workload stress + High-turnover job role + Long time since last promotion
+1052,Sales,Sales Executive,No,0,0.247,Low,Many previous employers + Frequent travel / workload stress + Low satisfaction and engagement
+1053,Research & Development,Research Scientist,No,0,0.055,Low,Education field + Low monthly income + Lower WorkLifeBalance
+1054,Research & Development,Research Scientist,No,0,0.008,Low,Lower WorkLifeBalance + Low monthly income + Lower DailyRate
+1055,Research & Development,Healthcare Representative,No,0,0.002,Low,Low satisfaction and engagement + Promotion delay + Many previous employers
+1056,Research & Development,Research Director,No,0,0.05,Low,Long time since last promotion + Many previous employers + Frequent travel / workload stress
+1057,Sales,Sales Representative,No,1,0.264,Low,High-turnover job role + Frequent travel / workload stress + Education field
+1058,Sales,Sales Executive,No,1,0.94,High,Low satisfaction and engagement + Lower WorkLifeBalance + Frequent travel / workload stress
+1059,Sales,Sales Executive,Yes,1,0.609,High,Long time since last promotion + Low satisfaction and engagement + Works overtime
+1060,Sales,Sales Representative,No,0,0.281,Low,High-turnover job role + Income vs experience mismatch + Few years with current manager
+1061,Research & Development,Laboratory Technician,Yes,1,0.964,High,Works overtime + Frequent travel / workload stress + Low satisfaction and engagement
+1062,Sales,Sales Representative,No,0,0.086,Low,High-turnover job role + Income vs experience mismatch + Few years with current manager
+1063,Research & Development,Manufacturing Director,Yes,0,0.651,High,Works overtime + Frequent travel / workload stress + Marital status (single)
+1064,Sales,Sales Executive,No,0,0.037,Low,Long commute + High-turnover job role + Income vs experience mismatch
+1065,Human Resources,Human Resources,No,0,0.018,Low,Low monthly income + Younger age + Low job level
+1066,Research & Development,Healthcare Representative,Yes,0,0.069,Low,Works overtime + Low stock option level + Income vs experience mismatch
+1067,Research & Development,Laboratory Technician,No,0,0.381,Medium,Many previous employers + Low satisfaction and engagement + High-turnover job role
+1068,Sales,Sales Executive,Yes,0,0.152,Low,Works overtime + Lower WorkLifeBalance + High-turnover job role
+1069,Research & Development,Laboratory Technician,No,1,0.78,High,Low satisfaction and engagement + Many previous employers + Frequent travel / workload stress
+1070,Research & Development,Research Scientist,No,0,0.166,Low,Lower WorkLifeBalance + Low satisfaction and engagement + Low monthly income
+1071,Sales,Sales Executive,No,0,0.247,Low,Frequent travel / workload stress + Marital status (single) + Low stock option level
+1072,Research & Development,Laboratory Technician,No,0,0.136,Low,Low satisfaction and engagement + High-turnover job role + Many previous employers
+1073,Research & Development,Laboratory Technician,No,0,0.044,Low,Frequent travel / workload stress + High-turnover job role + Low monthly income
+1074,Research & Development,Manufacturing Director,No,0,0.272,Low,Low satisfaction and engagement + Long commute + Lower WorkLifeBalance
+1075,Research & Development,Healthcare Representative,Yes,0,0.095,Low,Works overtime + Marital status (single) + Few years with current manager
+1076,Research & Development,Manager,No,0,0.018,Low,Income vs experience mismatch + Marital status (single) + Few years with current manager
+1077,Research & Development,Manager,No,0,0.002,Low,Frequent travel / workload stress + High-turnover job role + Low satisfaction and engagement
+1078,Research & Development,Research Scientist,No,1,0.688,High,Low satisfaction and engagement + Lower WorkLifeBalance + Many previous employers
+1079,Research & Development,Research Director,No,0,0.044,Low,Long time since last promotion + Long commute + Lower TrainingTimesLastYear
+1080,Research & Development,Manufacturing Director,No,0,0.049,Low,Marital status (single) + Low stock option level + Income vs experience mismatch
+1081,Sales,Manager,No,0,0.013,Low,Many previous employers + Long time since last promotion + Few years with current manager
+1082,Research & Development,Healthcare Representative,No,0,0.071,Low,Lower WorkLifeBalance + Marital status (single) + Low stock option level
+1083,Research & Development,Laboratory Technician,No,0,0.3,Medium,Low satisfaction and engagement + High-turnover job role + Marital status (single)
+1084,Research & Development,Laboratory Technician,No,1,0.337,Medium,Lower WorkLifeBalance + High-turnover job role + Marital status (single)
+1085,Sales,Sales Executive,Yes,0,0.237,Low,Long time since last promotion + Works overtime + Education field
+1086,Research & Development,Research Scientist,No,1,0.25,Low,Long time since last promotion + Lower WorkLifeBalance + Frequent travel / workload stress
+1087,Research & Development,Research Director,Yes,0,0.825,High,Long time since last promotion + Works overtime + Frequent travel / workload stress
+1088,Sales,Sales Representative,Yes,0,0.462,Medium,Works overtime + High-turnover job role + Long time since last promotion
+1089,Research & Development,Laboratory Technician,No,0,0.26,Low,Low satisfaction and engagement + High-turnover job role + Income vs experience mismatch
+1090,Research & Development,Research Scientist,No,0,0.032,Low,Low satisfaction and engagement + Low stock option level + Long time since last promotion
+1091,Research & Development,Healthcare Representative,No,0,0.033,Low,Low satisfaction and engagement + Income vs experience mismatch + Younger age
+1092,Research & Development,Manufacturing Director,No,0,0.107,Low,Long commute + Marital status (single) + Low stock option level
+1093,Research & Development,Research Scientist,No,0,0.019,Low,Long commute + Education field + Low monthly income
+1094,Research & Development,Healthcare Representative,Yes,0,0.308,Medium,Long time since last promotion + Works overtime + Lower WorkLifeBalance
+1095,Sales,Sales Executive,No,0,0.146,Low,Long time since last promotion + Low satisfaction and engagement + Low stock option level
+1096,Research & Development,Laboratory Technician,Yes,0,0.274,Low,Works overtime + Long commute + High-turnover job role
+1097,Human Resources,Manager,Yes,0,0.09,Low,Works overtime + Long time since last promotion + Marital status (single)
+1098,Research & Development,Laboratory Technician,No,0,0.438,Medium,Low satisfaction and engagement + High-turnover job role + Education field
+1099,Research & Development,Healthcare Representative,Yes,0,0.017,Low,Works overtime + Low stock option level + Few years with current manager
+1100,Research & Development,Healthcare Representative,No,0,0.028,Low,Low satisfaction and engagement + Long time since last promotion + Education field
+1101,Sales,Sales Representative,No,0,0.135,Low,Low satisfaction and engagement + High-turnover job role + Long commute
+1102,Research & Development,Research Scientist,No,0,0.045,Low,Low satisfaction and engagement + Few years in current role + Younger age
+1103,Sales,Sales Representative,Yes,0,0.334,Medium,Works overtime + High-turnover job role + Marital status (single)
+1104,Sales,Sales Executive,No,0,0.043,Low,Long time since last promotion + Many previous employers + High-turnover job role
+1105,Research & Development,Research Scientist,No,0,0.193,Low,Many previous employers + Lower WorkLifeBalance + Few years with current manager
+1106,Sales,Sales Executive,No,0,0.188,Low,Lower WorkLifeBalance + Low satisfaction and engagement + High-turnover job role
+1107,Sales,Sales Executive,No,1,0.108,Low,Low satisfaction and engagement + Long time since last promotion + Income vs experience mismatch
+1108,Human Resources,Human Resources,No,0,0.245,Low,Education field + Frequent travel / workload stress + Low stock option level
+1109,Research & Development,Laboratory Technician,No,0,0.292,Low,Low satisfaction and engagement + High-turnover job role + Marital status (single)
+1110,Sales,Sales Executive,No,0,0.224,Low,Long commute + Education field + Income vs experience mismatch
+1111,Research & Development,Laboratory Technician,Yes,1,0.492,Medium,Works overtime + Low satisfaction and engagement + High-turnover job role
+1112,Research & Development,Manufacturing Director,No,1,0.004,Low,Education field + Few years at company + Promotion delay
+1113,Research & Development,Manufacturing Director,No,1,0.015,Low,Low satisfaction and engagement + Many previous employers + Few years in current role
+1114,Research & Development,Research Scientist,No,0,0.037,Low,Education field + Lower WorkLifeBalance + Many previous employers
+1115,Research & Development,Research Scientist,No,0,0.354,Medium,Long time since last promotion + Many previous employers + Lower WorkLifeBalance
+1116,Research & Development,Research Scientist,No,0,0.462,Medium,Income vs experience mismatch + Lower WorkLifeBalance + Marital status (single)
+1117,Sales,Manager,No,0,0.013,Low,Long commute + High-turnover job role + Education field
+1118,Research & Development,Research Scientist,No,0,0.053,Low,Many previous employers + Lower WorkLifeBalance + Few years with current manager
+1119,Research & Development,Research Scientist,No,0,0.08,Low,Low satisfaction and engagement + Income vs experience mismatch + Few years with current manager
+1120,Sales,Sales Executive,No,0,0.048,Low,Long time since last promotion + Income vs experience mismatch + High-turnover job role
+1121,Sales,Sales Executive,No,0,0.147,Low,Low satisfaction and engagement + Marital status (single) + Low stock option level
+1122,Sales,Sales Executive,No,0,0.166,Low,Many previous employers + Low satisfaction and engagement + Marital status (single)
+1123,Research & Development,Laboratory Technician,Yes,0,0.374,Medium,Works overtime + High-turnover job role + Marital status (single)
+1124,Research & Development,Healthcare Representative,Yes,0,0.324,Medium,Works overtime + Marital status (single) + Low satisfaction and engagement
+1125,Sales,Sales Executive,No,0,0.015,Low,Long time since last promotion + High-turnover job role + Income vs experience mismatch
+1126,Research & Development,Healthcare Representative,No,0,0.029,Low,Income vs experience mismatch + Frequent travel / workload stress + Lower TrainingTimesLastYear
+1127,Sales,Manager,Yes,0,0.031,Low,Works overtime + Few years with current manager + Few years in current role
+1128,Research & Development,Research Scientist,No,0,0.035,Low,Education field + Younger age + Low monthly income
+1129,Research & Development,Laboratory Technician,Yes,0,0.503,Medium,Works overtime + Frequent travel / workload stress + High-turnover job role
+1130,Research & Development,Manager,No,0,0.014,Low,Many previous employers + Marital status (single) + Low stock option level
+1131,Research & Development,Laboratory Technician,No,0,0.038,Low,Long time since last promotion + Long commute + High-turnover job role
+1132,Research & Development,Healthcare Representative,No,0,0.267,Low,Long time since last promotion + Frequent travel / workload stress + Education field
+1133,Sales,Sales Executive,No,0,0.077,Low,High-turnover job role + Income vs experience mismatch + Lower DailyRate
+1134,Research & Development,Laboratory Technician,No,0,0.249,Low,Long commute + High-turnover job role + Education field
+1135,Research & Development,Laboratory Technician,No,0,0.112,Low,Income vs experience mismatch + High-turnover job role + Lower WorkLifeBalance
+1136,Sales,Manager,No,0,0.025,Low,Lower WorkLifeBalance + Marital status (single) + Low stock option level
+1137,Research & Development,Laboratory Technician,Yes,1,0.623,High,Works overtime + Income vs experience mismatch + Long commute
+1138,Research & Development,Research Scientist,Yes,0,0.603,High,Works overtime + Low satisfaction and engagement + Long commute
+1139,Research & Development,Healthcare Representative,Yes,0,0.256,Low,Long time since last promotion + Works overtime + Frequent travel / workload stress
+1140,Research & Development,Research Scientist,No,0,0.01,Low,Low monthly income + Few years with current manager + Low job level
+1141,Research & Development,Research Director,Yes,0,0.004,Low,Works overtime + Lower WorkLifeBalance + Income vs experience mismatch
+1142,Research & Development,Research Scientist,No,0,0.126,Low,Low satisfaction and engagement + Lower WorkLifeBalance + Low monthly income
+1143,Research & Development,Laboratory Technician,Yes,0,0.545,Medium,Low satisfaction and engagement + Works overtime + High-turnover job role
+1144,Sales,Sales Executive,No,0,0.378,Medium,Low satisfaction and engagement + Long commute + Long time since last promotion
+1145,Sales,Sales Executive,No,0,0.323,Medium,Many previous employers + Frequent travel / workload stress + Marital status (single)
+1146,Research & Development,Manufacturing Director,Yes,0,0.245,Low,Many previous employers + Works overtime + Few years with current manager
+1147,Research & Development,Manufacturing Director,No,0,0.017,Low,Long time since last promotion + Frequent travel / workload stress + Few years with current manager
+1148,Research & Development,Laboratory Technician,No,0,0.093,Low,Long commute + High-turnover job role + Lower WorkLifeBalance
+1149,Research & Development,Manufacturing Director,No,0,0.016,Low,Long time since last promotion + Low satisfaction and engagement + Low monthly income
+1150,Research & Development,Laboratory Technician,No,0,0.084,Low,Low satisfaction and engagement + High-turnover job role + Long commute
+1151,Research & Development,Research Scientist,No,0,0.011,Low,Long commute + Low stock option level + Promotion delay
+1152,Research & Development,Manufacturing Director,No,0,0.171,Low,Low satisfaction and engagement + Long commute + Lower WorkLifeBalance
+1153,Research & Development,Research Scientist,No,0,0.102,Low,Marital status (single) + Younger age + Low stock option level
+1154,Sales,Sales Representative,Yes,1,0.914,High,Income vs experience mismatch + Works overtime + High-turnover job role
+1155,Human Resources,Manager,No,0,0.002,Low,Long commute + Few years with current manager + High-turnover job role
+1156,Research & Development,Laboratory Technician,No,0,0.007,Low,High-turnover job role + Low monthly income + Lower DailyRate
+1157,Research & Development,Manufacturing Director,No,0,0.041,Low,Long time since last promotion + Low satisfaction and engagement + Long commute
+1158,Research & Development,Healthcare Representative,No,0,0.001,Low,Low monthly income + Lower DailyRate + Promotion delay
+1159,Research & Development,Manufacturing Director,No,0,0.072,Low,Long commute + Lower WorkLifeBalance + Few years with current manager
+1160,Research & Development,Manufacturing Director,No,0,0.165,Low,Lower WorkLifeBalance + Frequent travel / workload stress + Marital status (single)
+1161,Research & Development,Manufacturing Director,No,0,0.007,Low,Long time since last promotion + Low monthly income + Lower Education
+1162,Research & Development,Manufacturing Director,Yes,0,0.01,Low,Works overtime + Few years with current manager + Promotion delay
+1163,Sales,Sales Executive,No,1,0.193,Low,Many previous employers + Long time since last promotion + Low satisfaction and engagement
+1164,Research & Development,Research Scientist,No,0,0.314,Medium,Long time since last promotion + Low satisfaction and engagement + Lower WorkLifeBalance
+1165,Research & Development,Manufacturing Director,Yes,0,0.179,Low,Works overtime + Many previous employers + Marital status (single)
+1166,Human Resources,Human Resources,Yes,0,0.548,Medium,Education field + Works overtime + Frequent travel / workload stress
+1167,Research & Development,Manager,No,0,0.012,Low,Frequent travel / workload stress + High-turnover job role + Few years with current manager
+1168,Sales,Sales Executive,Yes,1,0.492,Medium,Works overtime + Low satisfaction and engagement + Many previous employers
+1169,Research & Development,Research Scientist,Yes,0,0.73,High,Works overtime + Frequent travel / workload stress + Education field
+1170,Research & Development,Research Scientist,No,0,0.156,Low,Many previous employers + Lower TrainingTimesLastYear + Low stock option level
+1171,Research & Development,Research Scientist,No,0,0.136,Low,Frequent travel / workload stress + Marital status (single) + Lower WorkLifeBalance
+1172,Research & Development,Laboratory Technician,Yes,1,0.905,High,Low satisfaction and engagement + Works overtime + Lower WorkLifeBalance
+1173,Sales,Sales Executive,No,0,0.414,Medium,Many previous employers + Marital status (single) + Low stock option level
+1174,Research & Development,Healthcare Representative,No,0,0.017,Low,Low satisfaction and engagement + Income vs experience mismatch + Many previous employers
+1175,Research & Development,Manufacturing Director,No,0,0.002,Low,Frequent travel / workload stress + Younger age + Promotion delay
+1176,Research & Development,Manufacturing Director,No,0,0.035,Low,Few years with current manager + Low stock option level + Many previous employers
+1177,Research & Development,Research Director,No,0,0.015,Low,Low satisfaction and engagement + Long commute + Few years with current manager
+1178,Research & Development,Research Director,No,0,0.002,Low,Many previous employers + Low satisfaction and engagement + Long commute
+1179,Sales,Sales Representative,No,0,0.278,Low,High-turnover job role + Younger age + Marital status (single)
+1180,Research & Development,Research Scientist,No,0,0.007,Low,Long time since last promotion + Lower TrainingTimesLastYear + Low monthly income
+1181,Research & Development,Laboratory Technician,No,0,0.205,Low,Low satisfaction and engagement + High-turnover job role + Marital status (single)
+1182,Research & Development,Healthcare Representative,Yes,0,0.017,Low,Works overtime + Low satisfaction and engagement + Lower DailyRate
+1183,Research & Development,Manufacturing Director,No,0,0.005,Low,Income vs experience mismatch + Low stock option level + Few years with current manager
+1184,Research & Development,Healthcare Representative,No,0,0.016,Low,Many previous employers + Promotion delay + Lower Education
+1185,Research & Development,Manager,No,0,0.002,Low,Long commute + Long time since last promotion + High-turnover job role
+1186,Research & Development,Research Director,No,0,0.006,Low,Long time since last promotion + Income vs experience mismatch + Low satisfaction and engagement
+1187,Sales,Sales Executive,Yes,1,0.28,Low,Works overtime + Frequent travel / workload stress + Long time since last promotion
+1188,Research & Development,Research Scientist,No,0,0.002,Low,Many previous employers + Frequent travel / workload stress + Low monthly income
+1189,Sales,Sales Executive,Yes,0,0.335,Medium,Low satisfaction and engagement + Works overtime + Lower WorkLifeBalance
+1190,Sales,Sales Executive,No,0,0.007,Low,High-turnover job role + Income vs experience mismatch + Promotion delay
+1191,Research & Development,Research Scientist,No,0,0.005,Low,Lower WorkLifeBalance + Younger age + Promotion delay
+1192,Sales,Sales Executive,No,0,0.051,Low,Low satisfaction and engagement + High-turnover job role + Few years in current role
+1193,Research & Development,Laboratory Technician,Yes,0,0.405,Medium,Works overtime + High-turnover job role + Lower WorkLifeBalance
+1194,Research & Development,Laboratory Technician,No,0,0.303,Medium,Frequent travel / workload stress + High-turnover job role + Marital status (single)
+1195,Sales,Manager,No,0,0.004,Low,Many previous employers + High-turnover job role + Few years with current manager
+1196,Research & Development,Manager,No,0,0.018,Low,Marital status (single) + Few years with current manager + Low stock option level
+1197,Sales,Sales Executive,Yes,0,0.17,Low,Works overtime + Long commute + Marital status (single)
+1198,Sales,Sales Representative,No,0,0.596,Medium,High-turnover job role + Low satisfaction and engagement + Younger age
+1199,Sales,Sales Executive,Yes,0,0.048,Low,Works overtime + High-turnover job role + Long commute
+1200,Research & Development,Healthcare Representative,No,0,0.159,Low,Long commute + Low satisfaction and engagement + Many previous employers
+1201,Human Resources,Human Resources,Yes,0,0.101,Low,Works overtime + Low monthly income + Many previous employers
+1202,Research & Development,Laboratory Technician,Yes,1,0.534,Medium,Works overtime + High-turnover job role + Marital status (single)
+1203,Research & Development,Laboratory Technician,No,0,0.058,Low,Many previous employers + High-turnover job role + Lower WorkLifeBalance
+1204,Research & Development,Healthcare Representative,No,0,0.02,Low,Long commute + Low stock option level + Few years with current manager
+1205,Sales,Sales Representative,Yes,1,0.211,Low,Works overtime + Long time since last promotion + High-turnover job role
+1206,Research & Development,Laboratory Technician,No,1,0.163,Low,High-turnover job role + Marital status (single) + Low monthly income
+1207,Research & Development,Laboratory Technician,No,0,0.005,Low,High-turnover job role + Long time since last promotion + Marital status (single)
+1208,Research & Development,Research Scientist,No,0,0.412,Medium,Low satisfaction and engagement + Long commute + Education field
+1209,Research & Development,Laboratory Technician,No,0,0.008,Low,High-turnover job role + Long time since last promotion + Low monthly income
+1210,Research & Development,Healthcare Representative,No,0,0.002,Low,Few years with current manager + Few years in current role + Low satisfaction and engagement
+1211,Research & Development,Laboratory Technician,No,0,0.008,Low,High-turnover job role + Long commute + Low monthly income
+1212,Sales,Sales Executive,No,0,0.138,Low,Income vs experience mismatch + Frequent travel / workload stress + Lower WorkLifeBalance
+1213,Research & Development,Research Scientist,No,0,0.07,Low,Long time since last promotion + Long commute + Low satisfaction and engagement
+1214,Sales,Sales Representative,Yes,1,0.219,Low,Works overtime + High-turnover job role + Younger age
+1215,Research & Development,Healthcare Representative,Yes,0,0.015,Low,Works overtime + Long time since last promotion + Income vs experience mismatch
+1216,Research & Development,Research Scientist,Yes,0,0.438,Medium,Works overtime + Frequent travel / workload stress + Low satisfaction and engagement
+1217,Sales,Sales Executive,Yes,0,0.069,Low,Long time since last promotion + Works overtime + High-turnover job role
+1218,Research & Development,Research Scientist,No,0,0.018,Low,Younger age + Lower TrainingTimesLastYear + Low job level
+1219,Sales,Sales Executive,No,0,0.082,Low,Long time since last promotion + Marital status (single) + Low stock option level
+1220,Research & Development,Laboratory Technician,No,0,0.144,Low,Many previous employers + High-turnover job role + Low monthly income
+1221,Sales,Sales Representative,No,0,0.158,Low,High-turnover job role + Long time since last promotion + Marital status (single)
+1222,Research & Development,Healthcare Representative,No,0,0.012,Low,Long time since last promotion + Lower WorkLifeBalance + Few years at company
+1223,Human Resources,Human Resources,No,1,0.512,Medium,Education field + Long commute + Low monthly income
+1224,Sales,Sales Executive,No,1,0.783,High,Long time since last promotion + Lower WorkLifeBalance + Many previous employers
+1225,Research & Development,Laboratory Technician,No,0,0.076,Low,High-turnover job role + Long commute + Low monthly income
+1226,Research & Development,Research Director,No,0,0.231,Low,Long time since last promotion + Long commute + Education field
+1227,Research & Development,Research Scientist,No,0,0.471,Medium,Low satisfaction and engagement + Frequent travel / workload stress + Many previous employers
+1228,Research & Development,Laboratory Technician,No,0,0.034,Low,High-turnover job role + Low monthly income + Low job level
+1229,Human Resources,Human Resources,No,0,0.182,Low,Education field + Low satisfaction and engagement + Many previous employers
+1230,Research & Development,Manufacturing Director,Yes,0,0.227,Low,Works overtime + Low satisfaction and engagement + Few years with current manager
+1231,Research & Development,Laboratory Technician,No,0,0.205,Low,Low satisfaction and engagement + Long commute + High-turnover job role
+1232,Research & Development,Healthcare Representative,No,0,0.048,Low,Many previous employers + Marital status (single) + Low stock option level
+1233,Research & Development,Manufacturing Director,No,0,0.009,Low,Long commute + Promotion delay + Younger age
+1234,Research & Development,Research Scientist,No,0,0.082,Low,Lower WorkLifeBalance + Long commute + Low monthly income
+1235,Sales,Sales Executive,No,0,0.177,Low,Lower WorkLifeBalance + Many previous employers + Income vs experience mismatch
+1236,Sales,Sales Executive,Yes,0,0.036,Low,Works overtime + Lower WorkLifeBalance + High-turnover job role
+1237,Sales,Sales Executive,Yes,1,0.415,Medium,Low satisfaction and engagement + Works overtime + Many previous employers
+1238,Sales,Sales Executive,No,1,0.693,High,Low satisfaction and engagement + Many previous employers + Marital status (single)
+1239,Research & Development,Laboratory Technician,No,0,0.531,Medium,Lower WorkLifeBalance + High-turnover job role + Marital status (single)
+1240,Research & Development,Manufacturing Director,No,0,0.144,Low,Frequent travel / workload stress + Long commute + Education field
+1241,Research & Development,Laboratory Technician,Yes,0,0.014,Low,Works overtime + High-turnover job role + Long time since last promotion
+1242,Sales,Sales Executive,No,0,0.154,Low,Lower WorkLifeBalance + Long commute + Income vs experience mismatch
+1243,Sales,Manager,No,0,0.158,Low,Long time since last promotion + Low satisfaction and engagement + Marital status (single)
+1244,Human Resources,Human Resources,No,0,0.04,Low,Low satisfaction and engagement + Income vs experience mismatch + Few years in current role
+1245,Research & Development,Research Scientist,No,0,0.082,Low,Frequent travel / workload stress + Education field + Marital status (single)
+1246,Human Resources,Human Resources,No,0,0.099,Low,Frequent travel / workload stress + Younger age + Low monthly income
+1247,Human Resources,Human Resources,No,1,0.526,Medium,Education field + Frequent travel / workload stress + Many previous employers
+1248,Sales,Sales Executive,No,0,0.178,Low,Income vs experience mismatch + Education field + Low satisfaction and engagement
+1249,Research & Development,Research Scientist,No,0,0.039,Low,Marital status (single) + Lower WorkLifeBalance + Low stock option level
+1250,Sales,Sales Representative,No,1,0.64,High,Low satisfaction and engagement + High-turnover job role + Marital status (single)
+1251,Research & Development,Healthcare Representative,Yes,0,0.169,Low,Works overtime + Many previous employers + Frequent travel / workload stress
+1252,Sales,Sales Executive,No,0,0.106,Low,Low satisfaction and engagement + High-turnover job role + Long commute
+1253,Research & Development,Research Scientist,Yes,0,0.021,Low,Works overtime + Few years in current role + Low monthly income
+1254,Sales,Sales Executive,No,0,0.071,Low,Many previous employers + Marital status (single) + Lower WorkLifeBalance
+1255,Sales,Sales Executive,No,0,0.026,Low,Marital status (single) + Low stock option level + High-turnover job role
+1256,Sales,Sales Executive,Yes,1,0.82,High,Low satisfaction and engagement + Works overtime + Marital status (single)
+1257,Research & Development,Laboratory Technician,No,0,0.285,Low,Low satisfaction and engagement + Frequent travel / workload stress + High-turnover job role
+1258,Sales,Sales Executive,No,1,0.066,Low,Low satisfaction and engagement + Few years with current manager + High-turnover job role
+1259,Research & Development,Research Scientist,No,0,0.206,Low,Income vs experience mismatch + Education field + Low satisfaction and engagement
+1260,Research & Development,Healthcare Representative,No,0,0.011,Low,Long commute + Few years in current role + Younger age
+1261,Research & Development,Research Scientist,No,0,0.037,Low,Low satisfaction and engagement + Education field + Marital status (single)
+1262,Research & Development,Healthcare Representative,Yes,0,0.25,Low,Works overtime + Low satisfaction and engagement + Long commute
+1263,Research & Development,Research Scientist,Yes,1,0.85,High,Many previous employers + Works overtime + Frequent travel / workload stress
+1264,Research & Development,Laboratory Technician,No,0,0.149,Low,Many previous employers + Low satisfaction and engagement + High-turnover job role
+1265,Research & Development,Research Director,No,0,0.007,Low,Low satisfaction and engagement + Many previous employers + Few years with current manager
+1266,Research & Development,Research Scientist,No,0,0.008,Low,Education field + Many previous employers + Lower WorkLifeBalance
+1267,Research & Development,Laboratory Technician,No,0,0.04,Low,High-turnover job role + Low satisfaction and engagement + Low monthly income
+1268,Sales,Sales Executive,Yes,0,0.008,Low,Works overtime + High-turnover job role + Low monthly income
+1269,Research & Development,Manufacturing Director,Yes,0,0.009,Low,Works overtime + Low satisfaction and engagement + Lower WorkLifeBalance
+1270,Human Resources,Human Resources,No,0,0.042,Low,Marital status (single) + Low stock option level + Low monthly income
+1271,Sales,Sales Executive,No,0,0.2,Low,Marital status (single) + Many previous employers + Low satisfaction and engagement
+1272,Sales,Sales Representative,No,1,0.806,High,Income vs experience mismatch + High-turnover job role + Low satisfaction and engagement
+1273,Research & Development,Laboratory Technician,No,0,0.046,Low,High-turnover job role + Low monthly income + Low job level
+1274,Research & Development,Laboratory Technician,Yes,1,0.568,Medium,Works overtime + Income vs experience mismatch + High-turnover job role
+1275,Sales,Sales Executive,No,0,0.37,Medium,Low satisfaction and engagement + Long commute + Long time since last promotion
+1276,Research & Development,Manager,No,0,0.1,Low,Education field + Low stock option level + Income vs experience mismatch
+1277,Sales,Sales Executive,No,0,0.324,Medium,Low satisfaction and engagement + High-turnover job role + Education field
+1278,Research & Development,Research Director,Yes,0,0.005,Low,Works overtime + Many previous employers + Income vs experience mismatch
+1279,Research & Development,Healthcare Representative,Yes,0,0.128,Low,Works overtime + Many previous employers + Long time since last promotion
+1280,Research & Development,Research Scientist,Yes,1,0.112,Low,Works overtime + Frequent travel / workload stress + Lower WorkLifeBalance
+1281,Human Resources,Human Resources,No,0,0.096,Low,Long time since last promotion + Lower WorkLifeBalance + Low stock option level
+1282,Sales,Sales Executive,Yes,1,0.457,Medium,Works overtime + Long time since last promotion + Long commute
+1283,Research & Development,Research Scientist,No,0,0.123,Low,Long time since last promotion + Many previous employers + Low monthly income
+1284,Research & Development,Research Scientist,No,0,0.005,Low,Low monthly income + Younger age + Low job level
+1285,Research & Development,Research Director,No,0,0.116,Low,Income vs experience mismatch + Many previous employers + Marital status (single)
+1286,Sales,Sales Executive,No,0,0.612,High,Many previous employers + Low satisfaction and engagement + Long commute
+1287,Research & Development,Laboratory Technician,No,0,0.07,Low,High-turnover job role + Lower WorkLifeBalance + Low monthly income
+1288,Research & Development,Healthcare Representative,No,0,0.043,Low,Many previous employers + Lower WorkLifeBalance + Few years with current manager
+1289,Research & Development,Manufacturing Director,No,0,0.001,Low,Promotion delay + Low monthly income + Younger age
+1290,Human Resources,Human Resources,No,0,0.021,Low,Education field + Low satisfaction and engagement + Many previous employers
+1291,Research & Development,Laboratory Technician,No,1,0.104,Low,Frequent travel / workload stress + High-turnover job role + Lower WorkLifeBalance
+1292,Research & Development,Manufacturing Director,No,1,0.039,Low,Lower WorkLifeBalance + Marital status (single) + Low stock option level
+1293,Sales,Sales Executive,No,0,0.018,Low,Frequent travel / workload stress + Long commute + High-turnover job role
+1294,Research & Development,Research Scientist,No,0,0.161,Low,Marital status (single) + Low satisfaction and engagement + Lower WorkLifeBalance
+1295,Research & Development,Healthcare Representative,No,0,0.205,Low,Lower WorkLifeBalance + Marital status (single) + Low satisfaction and engagement
+1296,Sales,Sales Executive,Yes,0,0.088,Low,Long time since last promotion + Works overtime + High-turnover job role
+1297,Research & Development,Manufacturing Director,No,0,0.163,Low,Many previous employers + Low satisfaction and engagement + Marital status (single)
+1298,Human Resources,Human Resources,Yes,1,0.122,Low,Works overtime + Long commute + Low monthly income
+1299,Research & Development,Healthcare Representative,No,1,0.005,Low,Long commute + Many previous employers + Long time since last promotion
+1300,Research & Development,Healthcare Representative,No,0,0.005,Low,Many previous employers + Promotion delay + Few years with current manager
+1301,Sales,Sales Executive,No,0,0.019,Low,Education field + Long time since last promotion + High-turnover job role
+1302,Sales,Manager,No,0,0.02,Low,Long time since last promotion + Lower WorkLifeBalance + Lower TrainingTimesLastYear
+1303,Research & Development,Laboratory Technician,No,0,0.184,Low,Low satisfaction and engagement + High-turnover job role + Long commute
+1304,Research & Development,Manufacturing Director,Yes,0,0.376,Medium,Long time since last promotion + Works overtime + Many previous employers
+1305,Research & Development,Healthcare Representative,No,0,0.069,Low,Long time since last promotion + Low satisfaction and engagement + Low monthly income
+1306,Research & Development,Research Scientist,No,0,0.007,Low,Lower WorkLifeBalance + Many previous employers + Few years in current role
+1307,Sales,Sales Executive,No,0,0.168,Low,Low satisfaction and engagement + Frequent travel / workload stress + Income vs experience mismatch
+1308,Research & Development,Research Scientist,No,0,0.031,Low,Income vs experience mismatch + Low satisfaction and engagement + Younger age
+1309,Sales,Sales Representative,Yes,0,0.488,Medium,Low satisfaction and engagement + Works overtime + High-turnover job role
+1310,Sales,Sales Executive,No,0,0.161,Low,Marital status (single) + Low stock option level + High-turnover job role
+1311,Research & Development,Research Director,Yes,0,0.094,Low,Works overtime + Frequent travel / workload stress + Low satisfaction and engagement
+1312,Research & Development,Research Scientist,No,0,0.215,Low,Income vs experience mismatch + Lower WorkLifeBalance + Younger age
+1313,Human Resources,Human Resources,No,1,0.199,Low,Education field + Income vs experience mismatch + Long commute
+1314,Human Resources,Human Resources,Yes,1,0.76,High,Low satisfaction and engagement + Education field + Works overtime
+1315,Sales,Sales Executive,No,0,0.005,Low,Long time since last promotion + High-turnover job role + Many previous employers
+1316,Research & Development,Research Scientist,Yes,0,0.04,Low,Works overtime + Few years with current manager + Few years in current role
+1317,Sales,Sales Executive,No,0,0.03,Low,Long time since last promotion + Frequent travel / workload stress + High-turnover job role
+1318,Research & Development,Laboratory Technician,Yes,0,0.428,Medium,Works overtime + Frequent travel / workload stress + High-turnover job role
+1319,Research & Development,Laboratory Technician,No,0,0.042,Low,Frequent travel / workload stress + High-turnover job role + Long commute
+1320,Sales,Sales Executive,No,0,0.366,Medium,Many previous employers + Frequent travel / workload stress + Marital status (single)
+1321,Research & Development,Research Scientist,No,0,0.063,Low,Education field + Lower WorkLifeBalance + Low monthly income
+1322,Research & Development,Laboratory Technician,No,0,0.247,Low,High-turnover job role + Marital status (single) + Few years with current manager
+1323,Research & Development,Manufacturing Director,No,0,0.002,Low,Long time since last promotion + Lower WorkLifeBalance + Income vs experience mismatch
+1324,Human Resources,Human Resources,No,0,0.017,Low,Low monthly income + Younger age + Few years with current manager
+1325,Research & Development,Healthcare Representative,No,0,0.126,Low,Many previous employers + Long commute + Few years in current role
+1326,Research & Development,Laboratory Technician,No,0,0.084,Low,High-turnover job role + Marital status (single) + Few years with current manager
+1327,Sales,Sales Executive,Yes,1,0.923,High,Works overtime + Many previous employers + Income vs experience mismatch
+1328,Sales,Sales Executive,No,0,0.008,Low,Education field + Low satisfaction and engagement + High-turnover job role
+1329,Sales,Sales Representative,No,0,0.081,Low,High-turnover job role + Long time since last promotion + Long commute
+1330,Human Resources,Human Resources,No,0,0.242,Low,Income vs experience mismatch + Few years with current manager + Low stock option level
+1331,Research & Development,Manager,No,0,0.024,Low,Long time since last promotion + Many previous employers + Low satisfaction and engagement
+1332,Research & Development,Research Director,No,0,0.013,Low,Long time since last promotion + Low stock option level + Many previous employers
+1333,Research & Development,Research Scientist,Yes,1,0.803,High,Works overtime + Frequent travel / workload stress + Income vs experience mismatch
+1334,Sales,Sales Executive,No,1,0.009,Low,Many previous employers + High-turnover job role + Promotion delay
+1335,Research & Development,Research Scientist,No,0,0.269,Low,Long time since last promotion + Frequent travel / workload stress + Lower WorkLifeBalance
+1336,Research & Development,Research Scientist,No,0,0.013,Low,Many previous employers + Long commute + Low monthly income
+1337,Research & Development,Research Scientist,No,0,0.059,Low,Many previous employers + Education field + Low satisfaction and engagement
+1338,Sales,Sales Representative,No,0,0.241,Low,Income vs experience mismatch + High-turnover job role + Few years with current manager
+1339,Sales,Sales Representative,No,1,0.338,Medium,High-turnover job role + Marital status (single) + Low monthly income
+1340,Research & Development,Research Scientist,Yes,1,0.768,High,Works overtime + Income vs experience mismatch + Marital status (single)
+1341,Sales,Sales Executive,Yes,0,0.3,Medium,Low satisfaction and engagement + Works overtime + Education field
+1342,Research & Development,Laboratory Technician,No,0,0.069,Low,High-turnover job role + Low satisfaction and engagement + Long commute
+1343,Sales,Sales Executive,Yes,0,0.053,Low,Works overtime + Income vs experience mismatch + Few years with current manager
+1344,Research & Development,Laboratory Technician,No,0,0.218,Low,High-turnover job role + Marital status (single) + Low monthly income
+1345,Research & Development,Research Scientist,Yes,0,0.07,Low,Works overtime + Many previous employers + Low monthly income
+1346,Research & Development,Manufacturing Director,Yes,0,0.246,Low,Works overtime + Income vs experience mismatch + Low stock option level
+1347,Research & Development,Manufacturing Director,No,0,0.018,Low,Long commute + Lower WorkLifeBalance + Long time since last promotion
+1348,Human Resources,Human Resources,No,0,0.295,Low,Education field + Frequent travel / workload stress + Marital status (single)
+1349,Research & Development,Manager,No,0,0.058,Low,Long time since last promotion + Low satisfaction and engagement + High-turnover job role
+1350,Research & Development,Research Scientist,Yes,0,0.602,High,Works overtime + Income vs experience mismatch + Low satisfaction and engagement
+1351,Sales,Sales Executive,No,0,0.043,Low,Marital status (single) + Lower WorkLifeBalance + Low stock option level
+1352,Research & Development,Manager,No,0,0.01,Low,Frequent travel / workload stress + Long commute + Long time since last promotion
+1353,Research & Development,Healthcare Representative,No,0,0.022,Low,Few years in current role + Lower DailyRate + Few years with current manager
+1354,Research & Development,Research Scientist,Yes,1,0.265,Low,Low satisfaction and engagement + Works overtime + Education field
+1355,Research & Development,Laboratory Technician,No,1,0.165,Low,Long commute + High-turnover job role + Marital status (single)
+1356,Sales,Sales Executive,No,0,0.381,Medium,Lower WorkLifeBalance + Low satisfaction and engagement + Long commute
+1357,Sales,Sales Executive,No,0,0.059,Low,Many previous employers + High-turnover job role + Education field
+1358,Research & Development,Research Director,No,0,0.044,Low,Many previous employers + Long time since last promotion + Low satisfaction and engagement
+1359,Sales,Sales Executive,Yes,0,0.064,Low,Works overtime + High-turnover job role + Income vs experience mismatch
+1360,Sales,Sales Executive,Yes,0,0.181,Low,Works overtime + Lower WorkLifeBalance + Low stock option level
+1361,Research & Development,Laboratory Technician,No,0,0.516,Medium,Many previous employers + High-turnover job role + Lower WorkLifeBalance
+1362,Research & Development,Laboratory Technician,No,0,0.044,Low,Long time since last promotion + Frequent travel / workload stress + High-turnover job role
+1363,Research & Development,Healthcare Representative,No,0,0.118,Low,Frequent travel / workload stress + Marital status (single) + Low stock option level
+1364,Sales,Sales Executive,No,0,0.218,Low,Marital status (single) + Lower WorkLifeBalance + Low stock option level
+1365,Sales,Sales Executive,Yes,0,0.164,Low,Works overtime + Frequent travel / workload stress + Income vs experience mismatch
+1366,Sales,Sales Representative,No,1,0.831,High,High-turnover job role + Frequent travel / workload stress + Long commute
+1367,Sales,Sales Executive,No,0,0.156,Low,Low satisfaction and engagement + Many previous employers + Long commute
+1368,Research & Development,Research Scientist,No,0,0.099,Low,Education field + Lower WorkLifeBalance + Low satisfaction and engagement
+1369,Research & Development,Research Scientist,Yes,0,0.292,Low,Works overtime + Frequent travel / workload stress + Long time since last promotion
+1370,Sales,Sales Executive,Yes,1,0.526,Medium,Works overtime + Income vs experience mismatch + Marital status (single)
+1371,Research & Development,Research Scientist,No,0,0.009,Low,Many previous employers + Education field + Long commute
+1372,Sales,Sales Executive,No,0,0.158,Low,Low satisfaction and engagement + Few years with current manager + High-turnover job role
+1373,Research & Development,Manufacturing Director,No,0,0.142,Low,Long time since last promotion + Low satisfaction and engagement + Few years in current role
+1374,Research & Development,Research Scientist,Yes,0,0.066,Low,Works overtime + Frequent travel / workload stress + Low monthly income
+1375,Sales,Manager,Yes,0,0.051,Low,Works overtime + Long commute + Lower WorkLifeBalance
+1376,Research & Development,Research Scientist,Yes,1,0.624,High,Works overtime + Frequent travel / workload stress + Low satisfaction and engagement
+1377,Research & Development,Research Scientist,No,0,0.009,Low,Lower TrainingTimesLastYear + Low job level + Promotion delay
+1378,Research & Development,Research Director,No,0,0.006,Low,Frequent travel / workload stress + Long time since last promotion + Low stock option level
+1379,Sales,Sales Executive,Yes,0,0.15,Low,Works overtime + Few years with current manager + High-turnover job role
+1380,Human Resources,Human Resources,No,1,0.942,High,Low satisfaction and engagement + Education field + Income vs experience mismatch
+1381,Sales,Sales Executive,No,0,0.2,Low,Lower WorkLifeBalance + Low satisfaction and engagement + Long commute
+1382,Research & Development,Research Scientist,No,0,0.027,Low,Marital status (single) + Lower WorkLifeBalance + Low monthly income
+1383,Research & Development,Research Scientist,Yes,0,0.035,Low,Works overtime + Low monthly income + Low job level
+1384,Research & Development,Laboratory Technician,No,0,0.068,Low,High-turnover job role + Low satisfaction and engagement + Low stock option level
+1385,Sales,Sales Executive,No,0,0.309,Medium,Low satisfaction and engagement + Marital status (single) + Lower WorkLifeBalance
+1386,Sales,Sales Executive,No,0,0.013,Low,Lower WorkLifeBalance + Income vs experience mismatch + High-turnover job role
+1387,Research & Development,Laboratory Technician,No,0,0.121,Low,Long time since last promotion + High-turnover job role + Marital status (single)
+1388,Research & Development,Healthcare Representative,No,0,0.082,Low,Low satisfaction and engagement + Lower WorkLifeBalance + Younger age
+1389,Research & Development,Healthcare Representative,No,0,0.004,Low,Many previous employers + Long commute + Few years in current role
+1390,Research & Development,Research Scientist,No,0,0.064,Low,Long time since last promotion + Low satisfaction and engagement + Frequent travel / workload stress
+1391,Research & Development,Laboratory Technician,No,1,0.404,Medium,High-turnover job role + Education field + Many previous employers
+1392,Sales,Sales Representative,No,0,0.856,High,Low satisfaction and engagement + High-turnover job role + Marital status (single)
+1393,Sales,Sales Executive,Yes,0,0.034,Low,Works overtime + Low stock option level + High-turnover job role
+1394,Sales,Sales Executive,No,0,0.026,Low,Marital status (single) + Low stock option level + High-turnover job role
+1395,Research & Development,Manufacturing Director,No,0,0.192,Low,Many previous employers + Income vs experience mismatch + Marital status (single)
+1396,Sales,Sales Executive,Yes,1,0.353,Medium,Works overtime + Frequent travel / workload stress + Long commute
+1397,Sales,Sales Executive,Yes,1,0.807,High,Low satisfaction and engagement + Works overtime + Long commute
+1398,Research & Development,Research Scientist,No,0,0.024,Low,Low satisfaction and engagement + Lower WorkLifeBalance + Low monthly income
+1399,Research & Development,Healthcare Representative,No,0,0.003,Low,Frequent travel / workload stress + Younger age + Lower TrainingTimesLastYear
+1400,Research & Development,Healthcare Representative,No,0,0.007,Low,Low satisfaction and engagement + Lower TrainingTimesLastYear + Promotion delay
+1401,Human Resources,Human Resources,Yes,0,0.399,Medium,Works overtime + Frequent travel / workload stress + Low monthly income
+1402,Human Resources,Manager,Yes,0,0.127,Low,Education field + Works overtime + Long commute
+1403,Research & Development,Laboratory Technician,Yes,0,0.06,Low,Works overtime + High-turnover job role + Low monthly income
+1404,Sales,Sales Executive,No,0,0.568,Medium,Long time since last promotion + Low satisfaction and engagement + Marital status (single)
+1405,Research & Development,Research Scientist,No,0,0.038,Low,Long commute + Marital status (single) + Low stock option level
+1406,Research & Development,Research Director,No,0,0.002,Low,Long time since last promotion + Income vs experience mismatch + Many previous employers
+1407,Research & Development,Manufacturing Director,Yes,0,0.301,Medium,Works overtime + Many previous employers + Marital status (single)
+1408,Research & Development,Healthcare Representative,No,0,0.268,Low,Low satisfaction and engagement + Marital status (single) + Income vs experience mismatch
+1409,Research & Development,Laboratory Technician,No,0,0.06,Low,High-turnover job role + Marital status (single) + Younger age
+1410,Research & Development,Laboratory Technician,No,0,0.238,Low,Long time since last promotion + Frequent travel / workload stress + High-turnover job role
+1411,Sales,Sales Executive,No,0,0.056,Low,Long time since last promotion + Low satisfaction and engagement + High-turnover job role
+1412,Human Resources,Human Resources,No,0,0.277,Low,Education field + Low monthly income + Younger age
+1413,Research & Development,Laboratory Technician,No,0,0.025,Low,High-turnover job role + Lower WorkLifeBalance + Low stock option level
+1414,Research & Development,Laboratory Technician,Yes,0,0.394,Medium,Works overtime + High-turnover job role + Many previous employers
+1415,Research & Development,Healthcare Representative,No,0,0.096,Low,Long time since last promotion + Low satisfaction and engagement + Long commute
+1416,Research & Development,Laboratory Technician,No,0,0.053,Low,High-turnover job role + Income vs experience mismatch + Low satisfaction and engagement
+1417,Sales,Sales Executive,No,0,0.008,Low,Long time since last promotion + High-turnover job role + Low monthly income
+1418,Sales,Sales Representative,No,0,0.179,Low,High-turnover job role + Low satisfaction and engagement + Low monthly income
+1419,Research & Development,Manufacturing Director,No,0,0.201,Low,Long time since last promotion + Frequent travel / workload stress + Low satisfaction and engagement
+1420,Research & Development,Research Scientist,Yes,0,0.307,Medium,Works overtime + Many previous employers + Long commute
+1421,Research & Development,Research Scientist,No,0,0.014,Low,Few years with current manager + Low monthly income + Low job level
+1422,Research & Development,Research Director,No,0,0.002,Low,Lower WorkLifeBalance + Long time since last promotion + Low satisfaction and engagement
+1423,Research & Development,Laboratory Technician,Yes,0,0.387,Medium,Works overtime + Many previous employers + High-turnover job role
+1424,Research & Development,Research Scientist,No,0,0.035,Low,Marital status (single) + Younger age + Low stock option level
+1425,Research & Development,Research Scientist,No,0,0.01,Low,Marital status (single) + Low stock option level + Low satisfaction and engagement
+1426,Research & Development,Healthcare Representative,Yes,0,0.135,Low,Long time since last promotion + Works overtime + Few years with current manager
+1427,Research & Development,Laboratory Technician,No,0,0.617,High,Long commute + High-turnover job role + Marital status (single)
+1428,Research & Development,Laboratory Technician,No,0,0.218,Low,Many previous employers + High-turnover job role + Lower WorkLifeBalance
+1429,Sales,Sales Representative,No,0,0.2,Low,Low satisfaction and engagement + High-turnover job role + Low monthly income
+1430,Research & Development,Research Scientist,No,0,0.141,Low,Many previous employers + Long commute + Low satisfaction and engagement
+1431,Research & Development,Research Director,No,0,0.026,Low,Low satisfaction and engagement + Lower DailyRate + Promotion delay
+1432,Sales,Sales Executive,No,0,0.011,Low,Long time since last promotion + High-turnover job role + Education field
+1433,Research & Development,Research Director,Yes,0,0.019,Low,Works overtime + Long time since last promotion + Income vs experience mismatch
+1434,Sales,Sales Executive,Yes,0,0.269,Low,Works overtime + Low satisfaction and engagement + Lower WorkLifeBalance
+1435,Sales,Sales Representative,No,0,0.057,Low,High-turnover job role + Long commute + Lower WorkLifeBalance
+1436,Research & Development,Research Scientist,Yes,0,0.283,Low,Works overtime + Many previous employers + Marital status (single)
+1437,Sales,Sales Representative,Yes,0,0.77,High,Works overtime + High-turnover job role + Marital status (single)
+1438,Research & Development,Manager,No,0,0.003,Low,Marital status (single) + Lower WorkLifeBalance + Income vs experience mismatch
+1439,Sales,Sales Representative,No,1,0.759,High,High-turnover job role + Frequent travel / workload stress + Low satisfaction and engagement
+1440,Sales,Sales Executive,No,0,0.019,Low,Low satisfaction and engagement + High-turnover job role + Long time since last promotion
+1441,Research & Development,Manufacturing Director,No,0,0.022,Low,Many previous employers + Frequent travel / workload stress + Few years with current manager
+1442,Research & Development,Healthcare Representative,No,0,0.002,Low,Lower WorkLifeBalance + Low satisfaction and engagement + Promotion delay
+1443,Research & Development,Research Scientist,Yes,1,0.215,Low,Many previous employers + Works overtime + Income vs experience mismatch
+1444,Research & Development,Manager,No,0,0.036,Low,Low satisfaction and engagement + Many previous employers + Long time since last promotion
+1445,Research & Development,Laboratory Technician,No,1,0.137,Low,Long time since last promotion + Many previous employers + Lower WorkLifeBalance
+1446,Research & Development,Manufacturing Director,No,0,0.012,Low,Low satisfaction and engagement + Long commute + Promotion delay
+1447,Sales,Sales Executive,No,0,0.026,Low,Long commute + High-turnover job role + Education field
+1448,Sales,Sales Executive,No,0,0.031,Low,Long time since last promotion + Lower WorkLifeBalance + Low satisfaction and engagement
+1449,Sales,Sales Executive,No,0,0.013,Low,Low satisfaction and engagement + High-turnover job role + Promotion delay
+1450,Research & Development,Research Scientist,No,0,0.169,Low,Education field + Marital status (single) + Low stock option level
+1451,Human Resources,Human Resources,Yes,0,0.117,Low,Works overtime + Long commute + Marital status (single)
+1452,Sales,Sales Executive,No,0,0.031,Low,High-turnover job role + Lower TrainingTimesLastYear + Lower DailyRate
+1453,Sales,Sales Executive,No,1,0.071,Low,Many previous employers + Frequent travel / workload stress + High-turnover job role
+1454,Sales,Sales Executive,No,0,0.201,Low,Low satisfaction and engagement + Lower WorkLifeBalance + Few years with current manager
+1455,Sales,Sales Executive,No,0,0.174,Low,Many previous employers + Marital status (single) + Long commute
+1456,Research & Development,Research Scientist,No,0,0.034,Low,Marital status (single) + Low stock option level + Low monthly income
+1457,Research & Development,Healthcare Representative,Yes,0,0.082,Low,Works overtime + Frequent travel / workload stress + Long commute
+1458,Research & Development,Research Scientist,No,0,0.009,Low,Low monthly income + Few years with current manager + Low job level
+1459,Research & Development,Research Scientist,No,0,0.011,Low,Few years with current manager + Low monthly income + Low job level
+1460,Research & Development,Laboratory Technician,Yes,0,0.584,Medium,Works overtime + High-turnover job role + Low satisfaction and engagement
+1461,Research & Development,Research Scientist,No,0,0.537,Medium,Lower WorkLifeBalance + Long commute + Low satisfaction and engagement
+1462,Sales,Sales Executive,Yes,1,0.457,Medium,Works overtime + Long commute + Low satisfaction and engagement
+1463,Sales,Sales Executive,No,0,0.158,Low,Long time since last promotion + Low satisfaction and engagement + Long commute
+1464,Research & Development,Manufacturing Director,No,0,0.063,Low,Low satisfaction and engagement + Marital status (single) + Income vs experience mismatch
+1465,Sales,Sales Representative,No,0,0.198,Low,High-turnover job role + Marital status (single) + Few years with current manager
+1466,Research & Development,Laboratory Technician,No,0,0.039,Low,Frequent travel / workload stress + High-turnover job role + Long commute
+1467,Research & Development,Healthcare Representative,No,0,0.02,Low,Low satisfaction and engagement + Income vs experience mismatch + Many previous employers
+1468,Research & Development,Manufacturing Director,Yes,0,0.162,Low,Works overtime + Lower TrainingTimesLastYear + Income vs experience mismatch
+1469,Sales,Sales Executive,No,0,0.028,Low,Frequent travel / workload stress + Lower WorkLifeBalance + Low stock option level
+1470,Research & Development,Laboratory Technician,No,0,0.059,Low,High-turnover job role + Low stock option level + Few years with current manager
