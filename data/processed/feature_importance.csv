@@ -1,0 +1,13 @@
+Driver,Importance
+Satisfaction & engagement,0.605
+OverTime,0.585
+YearsSinceLastPromotion,0.491
+Job role,0.484
+NumCompaniesWorked,0.367
+Marital status,0.289
+MonthlyIncome,0.277
+DistanceFromHome,0.274
+StockOptionLevel,0.271
+YearsWithCurrManager,0.265
+WorkLifeBalance,0.263
+Business travel & workload stress,0.26
